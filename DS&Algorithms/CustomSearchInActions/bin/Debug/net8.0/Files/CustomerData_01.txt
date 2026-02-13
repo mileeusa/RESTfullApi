@@ -1,9 +1,0 @@
-﻿customer,John,Smith,123 Main Street
-customer,Jane,Doe,456 Elm Road
-customer,Johnny,Appleseed,789 Oak Avenue
-customer,Jo,Short,12 Short St
-customer,Jonathan,Doe,111 Main Street
-weight,FirstName,10
-weight,LastName,8
-weight,Address,5
-search,John
