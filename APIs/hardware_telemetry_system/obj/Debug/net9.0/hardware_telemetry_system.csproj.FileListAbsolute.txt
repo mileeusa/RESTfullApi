@@ -1,6 +1,0 @@
-C:\Users\milee\source\repos\C#\CSharpSkills\APIs\hardware_telemetry_system\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\milee\source\repos\C#\CSharpSkills\APIs\hardware_telemetry_system\obj\Debug\net9.0\hardware_telemetry_system.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\milee\source\repos\C#\CSharpSkills\APIs\hardware_telemetry_system\obj\Debug\net9.0\hardware_telemetry_system.AssemblyInfoInputs.cache
-C:\Users\milee\source\repos\C#\CSharpSkills\APIs\hardware_telemetry_system\obj\Debug\net9.0\hardware_telemetry_system.AssemblyInfo.cs
-C:\Users\milee\source\repos\C#\CSharpSkills\APIs\hardware_telemetry_system\obj\Debug\net9.0\hardware_telemetry_system.csproj.CoreCompileInputs.cache
-C:\Users\milee\source\repos\C#\CSharpSkills\APIs\hardware_telemetry_system\obj\Debug\net9.0\hardware_telemetry_system.MvcApplicationPartsAssemblyInfo.cache

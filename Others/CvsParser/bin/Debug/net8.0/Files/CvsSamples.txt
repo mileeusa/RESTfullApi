@@ -1,5 +1,0 @@
-LocationId, status, price
-1,Completed, 12.5
-2,Delay,25.4
-3,Completed,15
-1,Completed,20 
