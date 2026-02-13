@@ -1,0 +1,2117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\unittests\\reorgnizeopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\unittests\\reorgnizeopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\reorgnizeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\reorgnizeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\removeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\removeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\regularexpressionmatchingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\regularexpressionmatchingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\permutationops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\permutationops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\unittests\\permutationopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\unittests\\permutationopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\parenthesisops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\parenthesisops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\palindromeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\palindromeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\orderlyops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\orderlyops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\mostaccessedops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\mostaccessedops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\unittests\\toptenmostaccessedtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\unittests\\toptenmostaccessedtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\minimumbucketsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\minimumbucketsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\unittests\\minimumbucketsopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\unittests\\minimumbucketsopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\mergeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\mergeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\longestwordops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\longestwordops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\longestsubstringops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\longestsubstringops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\longestcommonprefixops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\longestcommonprefixops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\interviewops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\interviewops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\intersectionops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\intersectionops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\recursiveinactions\\src\\interleavingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|solutionrelative:recursiveinactions\\src\\interleavingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\interleavingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\interleavingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\comparisonops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\comparisonops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\gcdops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\gcdops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\firstnonrepeatedops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\firstnonrepeatedops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\unittests\\firstnonrepeatedopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\unittests\\firstnonrepeatedopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\distanceops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\distanceops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\unittests\\distianceopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\unittests\\distianceopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\deletionops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\deletionops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\unittests\\deletionopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\unittests\\deletionopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\decodestringops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\decodestringops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\csharptypeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\csharptypeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\compressops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\compressops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\cleanops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\cleanops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\charops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\charops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\caseinsensitivecharcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\caseinsensitivecharcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\binarystringops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\binarystringops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\subarrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\subarrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\palindromeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\palindromeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\longestnondecreasingsubsequenceops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\longestnondecreasingsubsequenceops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\longestnondecreasingsubarrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\longestnondecreasingsubarrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\longestcontinuousincreasingstringops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\longestcontinuousincreasingstringops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\longestcommonsubsequenceops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\longestcommonsubsequenceops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\anagramops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\anagramops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7247521-7617-453B-BED5-8F8EE5F841AB}|DS\u0026Algorithms\\IntegerOps\\IntegerInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\integerops\\src\\palindromeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7247521-7617-453B-BED5-8F8EE5F841AB}|DS\u0026Algorithms\\IntegerOps\\IntegerInActions.csproj|solutionrelative:ds\u0026algorithms\\integerops\\src\\palindromeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7247521-7617-453B-BED5-8F8EE5F841AB}|DS\u0026Algorithms\\IntegerOps\\IntegerInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\integerops\\src\\validnumberops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7247521-7617-453B-BED5-8F8EE5F841AB}|DS\u0026Algorithms\\IntegerOps\\IntegerInActions.csproj|solutionrelative:ds\u0026algorithms\\integerops\\src\\validnumberops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3A5F17-2FFE-4FC9-83F4-EFF03355E18D}|GreedyOps\\GreedyOps.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\greedyops\\src\\minswapops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3A5F17-2FFE-4FC9-83F4-EFF03355E18D}|GreedyOps\\GreedyOps.csproj|solutionrelative:greedyops\\src\\minswapops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\wordsmessinessops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\wordsmessinessops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\uniquepathsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\uniquepathsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\shortestdistanceops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\shortestdistanceops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\pathops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\pathops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\orangerottingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\orangerottingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\mazeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\mazeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\islandsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\islandsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\graphtraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\graphtraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\directpathops_cheapestflightprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\directpathops_cheapestflightprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\unittests\\directpathops_cheapestflightprice_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\unittests\\directpathops_cheapestflightprice_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\directpathops_cheapestflightpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\directpathops_cheapestflightpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\directedgraph_bfs_cheapestflightprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\directedgraph_bfs_cheapestflightprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\directedgraph_dfs_scheduletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\directedgraph_dfs_scheduletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\diameterops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\diameterops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\bfsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\bfsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\anountoftimetobeinfected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\anountoftimetobeinfected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\wordsmessinessops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\wordsmessinessops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\stackboxesops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\stackboxesops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609EBAAB-9EEA-4324-AF59-044F653C15E9}|SlidingWindowOps\\SlidingWindowInAction.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\slidingwindowops\\src\\slidingwindowops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609EBAAB-9EEA-4324-AF59-044F653C15E9}|SlidingWindowOps\\SlidingWindowInAction.csproj|solutionrelative:slidingwindowops\\src\\slidingwindowops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609EBAAB-9EEA-4324-AF59-044F653C15E9}|SlidingWindowOps\\SlidingWindowInAction.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\slidingwindowops\\unittests\\maxvowelopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609EBAAB-9EEA-4324-AF59-044F653C15E9}|SlidingWindowOps\\SlidingWindowInAction.csproj|solutionrelative:slidingwindowops\\unittests\\maxvowelopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609EBAAB-9EEA-4324-AF59-044F653C15E9}|SlidingWindowOps\\SlidingWindowInAction.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\slidingwindowops\\src\\maxvowelops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609EBAAB-9EEA-4324-AF59-044F653C15E9}|SlidingWindowOps\\SlidingWindowInAction.csproj|solutionrelative:slidingwindowops\\src\\maxvowelops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\recursiveinactions\\src\\permutationops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|solutionrelative:recursiveinactions\\src\\permutationops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\recursiveinactions\\src\\parentheseops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|solutionrelative:recursiveinactions\\src\\parentheseops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\recursiveinactions\\src\\decodingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|solutionrelative:recursiveinactions\\src\\decodingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\recursiveinactions\\src\\convertfromnumberops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|solutionrelative:recursiveinactions\\src\\convertfromnumberops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7247521-7617-453B-BED5-8F8EE5F841AB}|DS\u0026Algorithms\\IntegerOps\\IntegerInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\integerops\\src\\convertfromnumberops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7247521-7617-453B-BED5-8F8EE5F841AB}|DS\u0026Algorithms\\IntegerOps\\IntegerInActions.csproj|solutionrelative:ds\u0026algorithms\\integerops\\src\\convertfromnumberops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7247521-7617-453B-BED5-8F8EE5F841AB}|DS\u0026Algorithms\\IntegerOps\\IntegerInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\integerops\\src\\climbingstairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7247521-7617-453B-BED5-8F8EE5F841AB}|DS\u0026Algorithms\\IntegerOps\\IntegerInActions.csproj|solutionrelative:ds\u0026algorithms\\integerops\\src\\climbingstairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C993CD71-4284-446F-A514-53D3605395A8}|DS\u0026Algorithms\\HashSetInAction\\HashSetInAction.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\hashsetinaction\\src\\uniqueops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C993CD71-4284-446F-A514-53D3605395A8}|DS\u0026Algorithms\\HashSetInAction\\HashSetInAction.csproj|solutionrelative:ds\u0026algorithms\\hashsetinaction\\src\\uniqueops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C993CD71-4284-446F-A514-53D3605395A8}|DS\u0026Algorithms\\HashSetInAction\\HashSetInAction.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\hashsetinaction\\src\\hashsetops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C993CD71-4284-446F-A514-53D3605395A8}|DS\u0026Algorithms\\HashSetInAction\\HashSetInAction.csproj|solutionrelative:ds\u0026algorithms\\hashsetinaction\\src\\hashsetops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3A5F17-2FFE-4FC9-83F4-EFF03355E18D}|GreedyOps\\GreedyOps.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\greedyops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3A5F17-2FFE-4FC9-83F4-EFF03355E18D}|GreedyOps\\GreedyOps.csproj|solutionrelative:greedyops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F83BDF0-B3EC-44DA-89B8-5046E0953F98}|DS\u0026Algorithms\\DynamicInActions\\DynamicInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicinactions\\src\\dynamictypingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F83BDF0-B3EC-44DA-89B8-5046E0953F98}|DS\u0026Algorithms\\DynamicInActions\\DynamicInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicinactions\\src\\dynamictypingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2485045-ED4B-4787-B8CF-D44F30B025F1}|DS\u0026Algorithms\\DictionaryInActions\\DictionaryInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dictionaryinactions\\src\\alienlanguageops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2485045-ED4B-4787-B8CF-D44F30B025F1}|DS\u0026Algorithms\\DictionaryInActions\\DictionaryInActions.csproj|solutionrelative:ds\u0026algorithms\\dictionaryinactions\\src\\alienlanguageops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2485045-ED4B-4787-B8CF-D44F30B025F1}|DS\u0026Algorithms\\DictionaryInActions\\DictionaryInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dictionaryinactions\\unittests\\alienlanguageopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2485045-ED4B-4787-B8CF-D44F30B025F1}|DS\u0026Algorithms\\DictionaryInActions\\DictionaryInActions.csproj|solutionrelative:ds\u0026algorithms\\dictionaryinactions\\unittests\\alienlanguageopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F91D02-5B5D-2784-72DD-4FE1F49160A9}|DS\u0026Algorithms\\CustomSorting\\CustomSorting.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\customsorting\\src\\caseinsensitivecharcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F91D02-5B5D-2784-72DD-4FE1F49160A9}|DS\u0026Algorithms\\CustomSorting\\CustomSorting.csproj|solutionrelative:ds\u0026algorithms\\customsorting\\src\\caseinsensitivecharcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECEADF8-EDEC-49ED-BEA3-AC8E23007AFB}|DS\u0026Algorithms\\CustomSearchInActions\\CustomSearchInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\customsearchinactions\\src\\customesearchfromhackerrank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECEADF8-EDEC-49ED-BEA3-AC8E23007AFB}|DS\u0026Algorithms\\CustomSearchInActions\\CustomSearchInActions.csproj|solutionrelative:ds\u0026algorithms\\customsearchinactions\\src\\customesearchfromhackerrank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECEADF8-EDEC-49ED-BEA3-AC8E23007AFB}|DS\u0026Algorithms\\CustomSearchInActions\\CustomSearchInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\customsearchinactions\\files\\customerdata_01.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0ECEADF8-EDEC-49ED-BEA3-AC8E23007AFB}|DS\u0026Algorithms\\CustomSearchInActions\\CustomSearchInActions.csproj|solutionrelative:ds\u0026algorithms\\customsearchinactions\\files\\customerdata_01.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EDB1A-9D76-46D0-9196-5E71DD8703AA}|DS\u0026Algorithms\\ConcurrencyInActions\\ConcurrencyInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\concurrencyinactions\\src\\concurrencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42EDB1A-9D76-46D0-9196-5E71DD8703AA}|DS\u0026Algorithms\\ConcurrencyInActions\\ConcurrencyInActions.csproj|solutionrelative:ds\u0026algorithms\\concurrencyinactions\\src\\concurrencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7334F55-AD6D-42CF-86A8-6490B0EE1942}|ClassDesignInActions\\ClassDesignInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\classdesigninactions\\src\\randomizedset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7334F55-AD6D-42CF-86A8-6490B0EE1942}|ClassDesignInActions\\ClassDesignInActions.csproj|solutionrelative:classdesigninactions\\src\\randomizedset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\unittests\\stackboxesopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\unittests\\stackboxesopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\slidingwindowops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\slidingwindowops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\recursiveops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\recursiveops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\unittests\\recursiveopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\unittests\\recursiveopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\graphops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\graphops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\matrixops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\matrixops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\encryptionops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\encryptionops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\unittests\\encryptionopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\unittests\\encryptionopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\dpops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\dpops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\dfsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\dfsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\bfsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\bfsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\arrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\arrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\recursiveinactions\\src\\climbingstairsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|solutionrelative:recursiveinactions\\src\\climbingstairsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\climbingstairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\climbingstairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\src\\permutationops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\permutationops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\recursiveinactions\\src\\robberyops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|solutionrelative:recursiveinactions\\src\\robberyops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\recursiveinactions\\unittests\\parentheseopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80A7251-726D-49F0-8580-D686E0C473BC}|RecursiveInActions\\RecursiveInActions.csproj|solutionrelative:recursiveinactions\\unittests\\parentheseopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E538921E-90E6-492C-9FDB-5E9899A38253}|BacktrackingInActions\\BacktrackingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\backtrackinginactions\\src\\countvalidipops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E538921E-90E6-492C-9FDB-5E9899A38253}|BacktrackingInActions\\BacktrackingInActions.csproj|solutionrelative:backtrackinginactions\\src\\countvalidipops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E538921E-90E6-492C-9FDB-5E9899A38253}|BacktrackingInActions\\BacktrackingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\backtrackinginactions\\unittests\\countvalidipopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E538921E-90E6-492C-9FDB-5E9899A38253}|BacktrackingInActions\\BacktrackingInActions.csproj|solutionrelative:backtrackinginactions\\unittests\\countvalidipopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\src\\countvovelsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\countvovelsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\unittests\\permutationopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\unittests\\permutationopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\unittests\\wordsmessinessopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\unittests\\wordsmessinessopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A54F3D9-D003-4967-3147-B892FCD8C7CA}|DS\u0026Algorithms\\TreeInActions\\TreeInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\treeinactions\\src\\avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A54F3D9-D003-4967-3147-B892FCD8C7CA}|DS\u0026Algorithms\\TreeInActions\\TreeInActions.csproj|solutionrelative:ds\u0026algorithms\\treeinactions\\src\\avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A54F3D9-D003-4967-3147-B892FCD8C7CA}|DS\u0026Algorithms\\TreeInActions\\TreeInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\treeinactions\\src\\model\\avlnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A54F3D9-D003-4967-3147-B892FCD8C7CA}|DS\u0026Algorithms\\TreeInActions\\TreeInActions.csproj|solutionrelative:ds\u0026algorithms\\treeinactions\\src\\model\\avlnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\unittests\\climbingstairstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\unittests\\climbingstairstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\decodingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\decodingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\combinationsumops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\combinationsumops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\unittests\\longestcommonsubsequenceopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\unittests\\longestcommonsubsequenceopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E538921E-90E6-492C-9FDB-5E9899A38253}|BacktrackingInActions\\BacktrackingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\backtrackinginactions\\src\\wordsearchfrommatrixops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E538921E-90E6-492C-9FDB-5E9899A38253}|BacktrackingInActions\\BacktrackingInActions.csproj|solutionrelative:backtrackinginactions\\src\\wordsearchfrommatrixops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E538921E-90E6-492C-9FDB-5E9899A38253}|BacktrackingInActions\\BacktrackingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\backtrackinginactions\\unittests\\matrixlookupopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E538921E-90E6-492C-9FDB-5E9899A38253}|BacktrackingInActions\\BacktrackingInActions.csproj|solutionrelative:backtrackinginactions\\unittests\\matrixlookupopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\searchops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\searchops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130BCF66-8FCF-4814-8790-CA93B8A9EC1E}|PatternSearchInActions\\PatternSearchInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\patternsearchinactions\\src\\patternsearchops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130BCF66-8FCF-4814-8790-CA93B8A9EC1E}|PatternSearchInActions\\PatternSearchInActions.csproj|solutionrelative:patternsearchinactions\\src\\patternsearchops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\unittests\\combinationsumopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\unittests\\combinationsumopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\distanceops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\distanceops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\src\\coinchangeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\coinchangeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\dynamicprogramming\\unittests\\coinchangeopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\unittests\\coinchangeopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\src\\subarrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\subarrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\unittests\\subarrayopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\unittests\\subarrayopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866AD906-0901-498F-BAA8-0F5CA513CEAD}|PrefixSuffixInActions\\PrefixSuffixInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\prefixsuffixinactions\\src\\longestnondecreasingsubarrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866AD906-0901-498F-BAA8-0F5CA513CEAD}|PrefixSuffixInActions\\PrefixSuffixInActions.csproj|solutionrelative:prefixsuffixinactions\\src\\longestnondecreasingsubarrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866AD906-0901-498F-BAA8-0F5CA513CEAD}|PrefixSuffixInActions\\PrefixSuffixInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\prefixsuffixinactions\\unittests\\longestnondecreasingsubarrayopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866AD906-0901-498F-BAA8-0F5CA513CEAD}|PrefixSuffixInActions\\PrefixSuffixInActions.csproj|solutionrelative:prefixsuffixinactions\\unittests\\longestnondecreasingsubarrayopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 430,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReorgnizeOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\ReorgnizeOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\UnitTests\\ReorgnizeOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\ReorgnizeOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\UnitTests\\ReorgnizeOpsTests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:15:41.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReorgnizeOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\ReorgnizeOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\ReorgnizeOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\ReorgnizeOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\ReorgnizeOps.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:14:15.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\RemoveOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\RemoveOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\RemoveOps.cs*",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\RemoveOps.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:12:42.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegularExpressionMatchingOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\RegularExpressionMatchingOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\RegularExpressionMatchingOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\RegularExpressionMatchingOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\RegularExpressionMatchingOps.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:12:39.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PermutationOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\PermutationOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\UnitTests\\PermutationOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\PermutationOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\UnitTests\\PermutationOpsTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:08:56.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PermutationOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\PermutationOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\PermutationOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\PermutationOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\PermutationOps.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:08:08.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParenthesisOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\ParenthesisOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\ParenthesisOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\ParenthesisOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\ParenthesisOps.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwDgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:03:32.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PalindromeOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\PalindromeOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\PalindromeOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\PalindromeOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\PalindromeOps.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwFIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:52:25.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderlyOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\OrderlyOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\OrderlyOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\OrderlyOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\OrderlyOps.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:45:20.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TopTenMostAccessedTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\TopTenMostAccessedTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\UnitTests\\TopTenMostAccessedTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\TopTenMostAccessedTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\UnitTests\\TopTenMostAccessedTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:42:10.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MostAccessedOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\MostAccessedOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\MostAccessedOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\MostAccessedOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\MostAccessedOps.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:39:11.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MinimumBucketsOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\MinimumBucketsOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\UnitTests\\MinimumBucketsOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\MinimumBucketsOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\UnitTests\\MinimumBucketsOpsTests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:30:51.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MinimumBucketsOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\MinimumBucketsOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\MinimumBucketsOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\MinimumBucketsOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\MinimumBucketsOps.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:21:44.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MergeOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\MergeOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\MergeOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\MergeOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\MergeOps.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:20:06.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LongestWordOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\LongestWordOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\LongestWordOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\LongestWordOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\LongestWordOps.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:06:07.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LongestSubstringOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\LongestSubstringOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\LongestSubstringOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\LongestSubstringOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\LongestSubstringOps.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T14:35:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LongestCommonPrefixOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\LongestCommonPrefixOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\LongestCommonPrefixOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\LongestCommonPrefixOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\LongestCommonPrefixOps.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:45:23.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InterviewOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\InterviewOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\InterviewOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\InterviewOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\InterviewOps.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:44:37.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IntersectionOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\IntersectionOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\IntersectionOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\IntersectionOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\IntersectionOps.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:44:34.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InterleavingOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\InterleavingOps.cs",
+              "RelativeDocumentMoniker": "RecursiveInActions\\src\\InterleavingOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\InterleavingOps.cs",
+              "RelativeToolTip": "RecursiveInActions\\src\\InterleavingOps.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:44:08.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InterleavingOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\InterleavingOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\InterleavingOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\InterleavingOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\InterleavingOps.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwCMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:15:58.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ComparisonOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\ComparisonOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\ComparisonOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\ComparisonOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\ComparisonOps.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwBsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:53:28.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GcdOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\GcdOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\GcdOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\GcdOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\GcdOps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:57:29.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FirstNonRepeatedOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\FirstNonRepeatedOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\UnitTests\\FirstNonRepeatedOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\FirstNonRepeatedOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\UnitTests\\FirstNonRepeatedOpsTests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:52:38.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FirstNonRepeatedOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\FirstNonRepeatedOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\FirstNonRepeatedOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\FirstNonRepeatedOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\FirstNonRepeatedOps.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:45:35.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DistianceOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\DistianceOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\UnitTests\\DistianceOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\DistianceOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\UnitTests\\DistianceOpsTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:32:27.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DistanceOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\DistanceOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\DistanceOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\DistanceOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\DistanceOps.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwFEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:30:20.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeletionOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\DeletionOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\DeletionOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\DeletionOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\DeletionOps.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:25:45.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeletionOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\DeletionOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\UnitTests\\DeletionOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\UnitTests\\DeletionOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\UnitTests\\DeletionOpsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:16:15.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DecodeStringOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\DecodeStringOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\DecodeStringOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\DecodeStringOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\DecodeStringOps.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:05:28.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CSharpTypeOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\CSharpTypeOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\CSharpTypeOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\CSharpTypeOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\CSharpTypeOps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:05:27.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CompressOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\CompressOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\CompressOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\CompressOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\CompressOps.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:59:27.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CleanOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\CleanOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\CleanOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\CleanOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\CleanOps.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:53:23.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CharOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\CharOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\CharOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\CharOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\CharOps.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:49:45.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CaseInsensitiveCharComparer.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\CaseInsensitiveCharComparer.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\CaseInsensitiveCharComparer.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\CaseInsensitiveCharComparer.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\CaseInsensitiveCharComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:49:39.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BinaryStringOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\BinaryStringOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\BinaryStringOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\BinaryStringOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\BinaryStringOps.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:49:31.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SubarrayOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\SubarrayOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\SubarrayOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\SubarrayOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\SubarrayOps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:46:25.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LongestNonDecreasingSubArrayOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\LongestNonDecreasingSubArrayOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\LongestNonDecreasingSubArrayOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\LongestNonDecreasingSubArrayOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\LongestNonDecreasingSubArrayOps.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:20:30.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AnagramOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\AnagramOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\AnagramOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\AnagramOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\AnagramOps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:15:00.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PalindromeOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\IntegerOps\\src\\PalindromeOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\IntegerOps\\src\\PalindromeOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\IntegerOps\\src\\PalindromeOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\IntegerOps\\src\\PalindromeOps.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:14:41.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LongestCommonSubsequenceOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\LongestCommonSubsequenceOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\LongestCommonSubsequenceOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\LongestCommonSubsequenceOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\LongestCommonSubsequenceOps.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T05:06:32.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LongestNonDecreasingSubsequenceOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\LongestNonDecreasingSubsequenceOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\LongestNonDecreasingSubsequenceOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\LongestNonDecreasingSubsequenceOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\LongestNonDecreasingSubsequenceOps.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T17:56:10.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PalindromeOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\PalindromeOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\PalindromeOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\PalindromeOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\PalindromeOps.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAWwBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:53:51.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ValidNumberOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\IntegerOps\\src\\ValidNumberOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\IntegerOps\\src\\ValidNumberOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\IntegerOps\\src\\ValidNumberOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\IntegerOps\\src\\ValidNumberOps.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T05:07:03.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ShortestDistanceOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\ShortestDistanceOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\ShortestDistanceOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\ShortestDistanceOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\ShortestDistanceOps.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:32:46.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LongestContinuousIncreasingStringOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\LongestContinuousIncreasingStringOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\LongestContinuousIncreasingStringOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\LongestContinuousIncreasingStringOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\LongestContinuousIncreasingStringOps.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T05:07:09.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PathOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\PathOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\PathOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\PathOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\PathOps.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:08:32.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrangeRottingOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\OrangeRottingOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\OrangeRottingOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\OrangeRottingOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\OrangeRottingOps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:08:28.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MazeOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\MazeOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\MazeOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\MazeOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\MazeOps.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:07:04.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UniquePathsOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\UniquePathsOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\UniquePathsOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\UniquePathsOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\UniquePathsOps.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:32:52.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "WordsMessinessOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\WordsMessinessOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\WordsMessinessOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\WordsMessinessOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\WordsMessinessOps.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:03:26.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MinSwapOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\GreedyOps\\src\\MinSwapOps.cs",
+              "RelativeDocumentMoniker": "GreedyOps\\src\\MinSwapOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\GreedyOps\\src\\MinSwapOps.cs",
+              "RelativeToolTip": "GreedyOps\\src\\MinSwapOps.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:00:20.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IslandsOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\IslandsOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\IslandsOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\IslandsOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\IslandsOps.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T16:51:57.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DirectPathOps_CheapestFlightPrice.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\DirectPathOps_CheapestFlightPrice.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\DirectPathOps_CheapestFlightPrice.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\DirectPathOps_CheapestFlightPrice.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\DirectPathOps_CheapestFlightPrice.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T15:48:05.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DirectPathOps_CheapestFlightPrice_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\UnitTests\\DirectPathOps_CheapestFlightPrice_Tests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\UnitTests\\DirectPathOps_CheapestFlightPrice_Tests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\UnitTests\\DirectPathOps_CheapestFlightPrice_Tests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\UnitTests\\DirectPathOps_CheapestFlightPrice_Tests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T16:44:31.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DirectedGraph_BFS_CheapestFlightPrice.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\DirectedGraph_BFS_CheapestFlightPrice.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\DirectedGraph_BFS_CheapestFlightPrice.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\DirectedGraph_BFS_CheapestFlightPrice.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\DirectedGraph_BFS_CheapestFlightPrice.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB8AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T15:22:09.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DiameterOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\DiameterOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\DiameterOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\DiameterOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\DiameterOps.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T15:20:52.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CurrencyConverter.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\CurrencyConverter.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\CurrencyConverter.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\CurrencyConverter.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\CurrencyConverter.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T15:20:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GraphTraversal.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\GraphTraversal.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\GraphTraversal.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\GraphTraversal.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\GraphTraversal.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:32:34.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DirectPathOps_CheapestFlightPath.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\DirectPathOps_CheapestFlightPath.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\DirectPathOps_CheapestFlightPath.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\DirectPathOps_CheapestFlightPath.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\DirectPathOps_CheapestFlightPath.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T15:47:32.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BFSOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\BFSOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\BFSOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\BFSOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\BFSOps.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T15:15:24.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SlidingWindowOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\SlidingWindowOps\\src\\SlidingWindowOps.cs",
+              "RelativeDocumentMoniker": "SlidingWindowOps\\src\\SlidingWindowOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\SlidingWindowOps\\src\\SlidingWindowOps.cs",
+              "RelativeToolTip": "SlidingWindowOps\\src\\SlidingWindowOps.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T04:59:15.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DirectedGraph_DFS_ScheduleTask.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\DirectedGraph_DFS_ScheduleTask.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\DirectedGraph_DFS_ScheduleTask.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\DirectedGraph_DFS_ScheduleTask.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\DirectedGraph_DFS_ScheduleTask.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:50:07.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ConvertFromNumberOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\ConvertFromNumberOps.cs",
+              "RelativeDocumentMoniker": "RecursiveInActions\\src\\ConvertFromNumberOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\ConvertFromNumberOps.cs",
+              "RelativeToolTip": "RecursiveInActions\\src\\ConvertFromNumberOps.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T04:13:27.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DecodingOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\DecodingOps.cs",
+              "RelativeDocumentMoniker": "RecursiveInActions\\src\\DecodingOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\DecodingOps.cs",
+              "RelativeToolTip": "RecursiveInActions\\src\\DecodingOps.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T04:21:29.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ConvertFromNumberOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\IntegerOps\\src\\ConvertFromNumberOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\IntegerOps\\src\\ConvertFromNumberOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\IntegerOps\\src\\ConvertFromNumberOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\IntegerOps\\src\\ConvertFromNumberOps.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T04:06:42.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "WordsMessinessOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\WordsMessinessOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\WordsMessinessOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\WordsMessinessOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\WordsMessinessOps.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwGYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:48:35.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AnountOfTimeToBeInfected.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\AnountOfTimeToBeInfected.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\AnountOfTimeToBeInfected.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\AnountOfTimeToBeInfected.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\GraphInActions\\src\\AnountOfTimeToBeInfected.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:57:19.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MaxVowelOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\SlidingWindowOps\\src\\MaxVowelOps.cs",
+              "RelativeDocumentMoniker": "SlidingWindowOps\\src\\MaxVowelOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\SlidingWindowOps\\src\\MaxVowelOps.cs",
+              "RelativeToolTip": "SlidingWindowOps\\src\\MaxVowelOps.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T04:49:17.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "MaxVowelOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\SlidingWindowOps\\UnitTests\\MaxVowelOpsTests.cs",
+              "RelativeDocumentMoniker": "SlidingWindowOps\\UnitTests\\MaxVowelOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\SlidingWindowOps\\UnitTests\\MaxVowelOpsTests.cs",
+              "RelativeToolTip": "SlidingWindowOps\\UnitTests\\MaxVowelOpsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T04:58:50.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "StackBoxesOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\StackBoxesOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\StackBoxesOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\StackBoxesOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\StackBoxesOps.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwIwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:24:26.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ClimbingStairs.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\IntegerOps\\src\\ClimbingStairs.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\IntegerOps\\src\\ClimbingStairs.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\IntegerOps\\src\\ClimbingStairs.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\IntegerOps\\src\\ClimbingStairs.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T03:52:20.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "UniqueOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\HashSetInAction\\src\\UniqueOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\HashSetInAction\\src\\UniqueOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\HashSetInAction\\src\\UniqueOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\HashSetInAction\\src\\UniqueOps.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T03:52:10.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ParentheseOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\ParentheseOps.cs",
+              "RelativeDocumentMoniker": "RecursiveInActions\\src\\ParentheseOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\ParentheseOps.cs",
+              "RelativeToolTip": "RecursiveInActions\\src\\ParentheseOps.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T17:45:40.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PermutationOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\PermutationOps.cs",
+              "RelativeDocumentMoniker": "RecursiveInActions\\src\\PermutationOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\PermutationOps.cs",
+              "RelativeToolTip": "RecursiveInActions\\src\\PermutationOps.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T21:48:27.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "HashSetOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\HashSetInAction\\src\\HashSetOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\HashSetInAction\\src\\HashSetOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\HashSetInAction\\src\\HashSetOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\HashSetInAction\\src\\HashSetOps.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAQwN8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T03:25:21.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\GreedyOps\\Program.cs",
+              "RelativeDocumentMoniker": "GreedyOps\\Program.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\GreedyOps\\Program.cs",
+              "RelativeToolTip": "GreedyOps\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T03:13:53.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DynamicTypingOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicInActions\\src\\DynamicTypingOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicInActions\\src\\DynamicTypingOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicInActions\\src\\DynamicTypingOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicInActions\\src\\DynamicTypingOps.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T03:01:11.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AlienLanguageOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DictionaryInActions\\UnitTests\\AlienLanguageOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DictionaryInActions\\UnitTests\\AlienLanguageOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DictionaryInActions\\UnitTests\\AlienLanguageOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DictionaryInActions\\UnitTests\\AlienLanguageOpsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T02:54:53.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AlienLanguageOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DictionaryInActions\\src\\AlienLanguageOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DictionaryInActions\\src\\AlienLanguageOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DictionaryInActions\\src\\AlienLanguageOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DictionaryInActions\\src\\AlienLanguageOps.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T02:53:19.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "CaseInsensitiveCharComparer.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\CustomSorting\\src\\CaseInsensitiveCharComparer.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\CustomSorting\\src\\CaseInsensitiveCharComparer.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\CustomSorting\\src\\CaseInsensitiveCharComparer.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\CustomSorting\\src\\CaseInsensitiveCharComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T02:51:26.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CustomerData_01.txt",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\CustomSearchInActions\\Files\\CustomerData_01.txt",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\CustomSearchInActions\\Files\\CustomerData_01.txt",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\CustomSearchInActions\\Files\\CustomerData_01.txt",
+              "RelativeToolTip": "DS\u0026Algorithms\\CustomSearchInActions\\Files\\CustomerData_01.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-11T02:50:52.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "CustomeSearchFromHackerRank.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\CustomSearchInActions\\src\\CustomeSearchFromHackerRank.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\CustomSearchInActions\\src\\CustomeSearchFromHackerRank.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\CustomSearchInActions\\src\\CustomeSearchFromHackerRank.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\CustomSearchInActions\\src\\CustomeSearchFromHackerRank.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwEkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T02:45:38.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ConcurrencyList.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ConcurrencyInActions\\src\\ConcurrencyList.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ConcurrencyInActions\\src\\ConcurrencyList.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ConcurrencyInActions\\src\\ConcurrencyList.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ConcurrencyInActions\\src\\ConcurrencyList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T02:44:51.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "RandomizedSet.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\ClassDesignInActions\\src\\RandomizedSet.cs",
+              "RelativeDocumentMoniker": "ClassDesignInActions\\src\\RandomizedSet.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\ClassDesignInActions\\src\\RandomizedSet.cs",
+              "RelativeToolTip": "ClassDesignInActions\\src\\RandomizedSet.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T02:27:12.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "StackBoxesOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\StackBoxesOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\StackBoxesOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\StackBoxesOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\StackBoxesOpsTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:40:20.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "SlidingWindowOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\SlidingWindowOps.cs",
+              "RelativeDocumentMoniker": "Interview2026InActions\\src\\SlidingWindowOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\SlidingWindowOps.cs",
+              "RelativeToolTip": "Interview2026InActions\\src\\SlidingWindowOps.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:19:30.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "RecursiveOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\UnitTests\\RecursiveOpsTests.cs",
+              "RelativeDocumentMoniker": "Interview2026InActions\\UnitTests\\RecursiveOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\UnitTests\\RecursiveOpsTests.cs",
+              "RelativeToolTip": "Interview2026InActions\\UnitTests\\RecursiveOpsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:17:56.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "RecursiveOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\RecursiveOps.cs",
+              "RelativeDocumentMoniker": "Interview2026InActions\\src\\RecursiveOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\RecursiveOps.cs",
+              "RelativeToolTip": "Interview2026InActions\\src\\RecursiveOps.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:16:49.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "MatrixOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\MatrixOps.cs",
+              "RelativeDocumentMoniker": "Interview2026InActions\\src\\MatrixOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\MatrixOps.cs",
+              "RelativeToolTip": "Interview2026InActions\\src\\MatrixOps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:16:38.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "GraphOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\GraphOps.cs",
+              "RelativeDocumentMoniker": "Interview2026InActions\\src\\GraphOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\GraphOps.cs",
+              "RelativeToolTip": "Interview2026InActions\\src\\GraphOps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:16:29.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "EncryptionOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\UnitTests\\EncryptionOpsTests.cs",
+              "RelativeDocumentMoniker": "Interview2026InActions\\UnitTests\\EncryptionOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\UnitTests\\EncryptionOpsTests.cs",
+              "RelativeToolTip": "Interview2026InActions\\UnitTests\\EncryptionOpsTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:06:36.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "EncryptionOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\EncryptionOps.cs",
+              "RelativeDocumentMoniker": "Interview2026InActions\\src\\EncryptionOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\EncryptionOps.cs",
+              "RelativeToolTip": "Interview2026InActions\\src\\EncryptionOps.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwFkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:51:15.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "DpOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\DpOps.cs",
+              "RelativeDocumentMoniker": "Interview2026InActions\\src\\DpOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\DpOps.cs",
+              "RelativeToolTip": "Interview2026InActions\\src\\DpOps.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:51:08.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "DFSOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\DFSOps.cs",
+              "RelativeDocumentMoniker": "Interview2026InActions\\src\\DFSOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\DFSOps.cs",
+              "RelativeToolTip": "Interview2026InActions\\src\\DFSOps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:51:07.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "BFSOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\BFSOps.cs",
+              "RelativeDocumentMoniker": "Interview2026InActions\\src\\BFSOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\BFSOps.cs",
+              "RelativeToolTip": "Interview2026InActions\\src\\BFSOps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:51:05.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ArrayOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\ArrayOps.cs",
+              "RelativeDocumentMoniker": "Interview2026InActions\\src\\ArrayOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\ArrayOps.cs",
+              "RelativeToolTip": "Interview2026InActions\\src\\ArrayOps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:51:03.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ClimbingStairsOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\ClimbingStairsOps.cs",
+              "RelativeDocumentMoniker": "RecursiveInActions\\src\\ClimbingStairsOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\ClimbingStairsOps.cs",
+              "RelativeToolTip": "RecursiveInActions\\src\\ClimbingStairsOps.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:00:18.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "RobberyOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\RobberyOps.cs",
+              "RelativeDocumentMoniker": "RecursiveInActions\\src\\RobberyOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\src\\RobberyOps.cs",
+              "RelativeToolTip": "RecursiveInActions\\src\\RobberyOps.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T21:18:34.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "CountValidIpOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\BacktrackingInActions\\src\\CountValidIpOps.cs",
+              "RelativeDocumentMoniker": "BacktrackingInActions\\src\\CountValidIpOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\BacktrackingInActions\\src\\CountValidIpOps.cs",
+              "RelativeToolTip": "BacktrackingInActions\\src\\CountValidIpOps.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T03:58:11.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "CountVovelsOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\CountVovelsOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\CountVovelsOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\CountVovelsOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\CountVovelsOps.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAACoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T03:20:40Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "PermutationOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\PermutationOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\PermutationOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\PermutationOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\PermutationOps.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAuwKQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:37:31.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ClimbingStairs.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\ClimbingStairs.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\ClimbingStairs.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\ClimbingStairs.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\ClimbingStairs.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAmwKEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T22:49:56.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "CountValidIpOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\BacktrackingInActions\\UnitTests\\CountValidIpOpsTests.cs",
+              "RelativeDocumentMoniker": "BacktrackingInActions\\UnitTests\\CountValidIpOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\BacktrackingInActions\\UnitTests\\CountValidIpOpsTests.cs",
+              "RelativeToolTip": "BacktrackingInActions\\UnitTests\\CountValidIpOpsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:03:32.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "ParentheseOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\UnitTests\\ParentheseOpsTests.cs",
+              "RelativeDocumentMoniker": "RecursiveInActions\\UnitTests\\ParentheseOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\RecursiveInActions\\UnitTests\\ParentheseOpsTests.cs",
+              "RelativeToolTip": "RecursiveInActions\\UnitTests\\ParentheseOpsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T17:56:48.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "PermutationOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\PermutationOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\PermutationOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\PermutationOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\PermutationOpsTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:41:52.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "WordsMessinessOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\WordsMessinessOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\WordsMessinessOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\WordsMessinessOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\WordsMessinessOpsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:54:58.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "AvlNode.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\TreeInActions\\src\\model\\AvlNode.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\TreeInActions\\src\\model\\AvlNode.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\TreeInActions\\src\\model\\AvlNode.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\TreeInActions\\src\\model\\AvlNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:29:15.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "AvlTree.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\TreeInActions\\src\\AvlTree.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\TreeInActions\\src\\AvlTree.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\TreeInActions\\src\\AvlTree.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\TreeInActions\\src\\AvlTree.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:28:57.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "ClimbingStairsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\ClimbingStairsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\ClimbingStairsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\ClimbingStairsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\ClimbingStairsTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA+wDYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T23:23:05.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "DecodingOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\DecodingOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\DecodingOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\DecodingOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\DecodingOps.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:07:56.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "MatrixLookupOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\BacktrackingInActions\\UnitTests\\MatrixLookupOpsTests.cs",
+              "RelativeDocumentMoniker": "BacktrackingInActions\\UnitTests\\MatrixLookupOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\BacktrackingInActions\\UnitTests\\MatrixLookupOpsTests.cs",
+              "RelativeToolTip": "BacktrackingInActions\\UnitTests\\MatrixLookupOpsTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T05:02:56.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "CombinationSumOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\CombinationSumOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\CombinationSumOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\CombinationSumOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\CombinationSumOps.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:14:52.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "WordSearchFromMatrixOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\BacktrackingInActions\\src\\WordSearchFromMatrixOps.cs",
+              "RelativeDocumentMoniker": "BacktrackingInActions\\src\\WordSearchFromMatrixOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\BacktrackingInActions\\src\\WordSearchFromMatrixOps.cs",
+              "RelativeToolTip": "BacktrackingInActions\\src\\WordSearchFromMatrixOps.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:58:23.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "LongestCommonSubsequenceOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\LongestCommonSubsequenceOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\LongestCommonSubsequenceOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\LongestCommonSubsequenceOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\LongestCommonSubsequenceOpsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:03:29.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "SearchOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\SearchOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\SearchOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\SearchOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\SearchOps.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:56:21.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "PatternSearchOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\PatternSearchInActions\\src\\PatternSearchOps.cs",
+              "RelativeDocumentMoniker": "PatternSearchInActions\\src\\PatternSearchOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\PatternSearchInActions\\src\\PatternSearchOps.cs",
+              "RelativeToolTip": "PatternSearchInActions\\src\\PatternSearchOps.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:48:43.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "CombinationSumOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\CombinationSumOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\CombinationSumOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\CombinationSumOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\CombinationSumOpsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:23:07.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "DistanceOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\DistanceOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\DistanceOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\DistanceOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\DistanceOps.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:10:08.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "CoinChangeOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\CoinChangeOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\CoinChangeOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\CoinChangeOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\CoinChangeOpsTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADgvxIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T23:24:32.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "CoinChangeOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\CoinChangeOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\CoinChangeOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\CoinChangeOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\src\\CoinChangeOps.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T23:23:26.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "SubarrayOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\SubarrayOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\SubarrayOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\SubarrayOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\SubarrayOpsTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:22:09.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "SubarrayOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\SubarrayOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\SubarrayOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\SubarrayOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\SubarrayOps.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAmwEoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:16:13.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "LongestNonDecreasingSubArrayOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\PrefixSuffixInActions\\UnitTests\\LongestNonDecreasingSubArrayOpsTests.cs",
+              "RelativeDocumentMoniker": "PrefixSuffixInActions\\UnitTests\\LongestNonDecreasingSubArrayOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\PrefixSuffixInActions\\UnitTests\\LongestNonDecreasingSubArrayOpsTests.cs",
+              "RelativeToolTip": "PrefixSuffixInActions\\UnitTests\\LongestNonDecreasingSubArrayOpsTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T17:51:45.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "LongestNonDecreasingSubArrayOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\PrefixSuffixInActions\\src\\LongestNonDecreasingSubArrayOps.cs",
+              "RelativeDocumentMoniker": "PrefixSuffixInActions\\src\\LongestNonDecreasingSubArrayOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\PrefixSuffixInActions\\src\\LongestNonDecreasingSubArrayOps.cs",
+              "RelativeToolTip": "PrefixSuffixInActions\\src\\LongestNonDecreasingSubArrayOps.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T17:49:39.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

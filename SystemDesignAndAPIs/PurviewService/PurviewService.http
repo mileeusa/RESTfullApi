@@ -1,0 +1,6 @@
+@PurviewService_HostAddress = http://localhost:5062
+
+GET {{PurviewService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

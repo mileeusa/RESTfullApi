@@ -1,0 +1,14 @@
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\bin\Debug\net8.0\ReaderWriterInActions.exe
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\bin\Debug\net8.0\ReaderWriterInActions.deps.json
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\bin\Debug\net8.0\ReaderWriterInActions.runtimeconfig.json
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\bin\Debug\net8.0\ReaderWriterInActions.dll
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\bin\Debug\net8.0\ReaderWriterInActions.pdb
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\obj\Debug\net8.0\ReaderWriterInActions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\obj\Debug\net8.0\ReaderWriterInActions.AssemblyInfoInputs.cache
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\obj\Debug\net8.0\ReaderWriterInActions.AssemblyInfo.cs
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\obj\Debug\net8.0\ReaderWriterInActions.csproj.CoreCompileInputs.cache
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\obj\Debug\net8.0\ReaderWriterInActions.dll
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\obj\Debug\net8.0\refint\ReaderWriterInActions.dll
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\obj\Debug\net8.0\ReaderWriterInActions.pdb
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\obj\Debug\net8.0\ReaderWriterInActions.genruntimeconfig.cache
+C:\Users\milee\source\repos\C#\CSharpSkills\ReaderWriterImpl\obj\Debug\net8.0\ref\ReaderWriterInActions.dll

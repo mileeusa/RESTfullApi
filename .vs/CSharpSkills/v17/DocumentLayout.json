@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74A7AA20-9FF9-4563-B74A-0F7B547AE0CD}|APIs\\hardware_telemetry_system\\hardware_telemetry_system.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\apis\\hardware_telemetry_system\\hardware_telemetry_system.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{74A7AA20-9FF9-4563-B74A-0F7B547AE0CD}|APIs\\hardware_telemetry_system\\hardware_telemetry_system.csproj|solutionrelative:apis\\hardware_telemetry_system\\hardware_telemetry_system.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F721A-DFE0-C56D-D17A-1586169E170F}|APIs\\CPIApi\\CPIApi\\CpiApi.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\apis\\cpiapi\\cpiapi\\cpiapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{933F721A-DFE0-C56D-D17A-1586169E170F}|APIs\\CPIApi\\CPIApi\\CpiApi.csproj|solutionrelative:apis\\cpiapi\\cpiapi\\cpiapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65EA5B64-341A-4ABB-B337-5C39B5199D37}|BinarySearchOps\\BinarySearchInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\binarysearchops\\binarysearchinactions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{65EA5B64-341A-4ABB-B337-5C39B5199D37}|BinarySearchOps\\BinarySearchInActions.csproj|solutionrelative:binarysearchops\\binarysearchinactions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\unittests\\duplicateopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\unittests\\duplicateopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\unittests\\removeopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\unittests\\removeopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\src\\duplicateops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\duplicateops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\src\\removeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\removeops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4E297-575A-4FF8-95E0-CDB8EA324246}|ReaderWriterImpl\\ReaderWriterInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\readerwriterimpl\\src\\readerwriterimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4E297-575A-4FF8-95E0-CDB8EA324246}|ReaderWriterImpl\\ReaderWriterInActions.csproj|solutionrelative:readerwriterimpl\\src\\readerwriterimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4E297-575A-4FF8-95E0-CDB8EA324246}|ReaderWriterImpl\\ReaderWriterInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\readerwriterimpl\\readerwriterinactions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65B4E297-575A-4FF8-95E0-CDB8EA324246}|ReaderWriterImpl\\ReaderWriterInActions.csproj|solutionrelative:readerwriterimpl\\readerwriterinactions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4E297-575A-4FF8-95E0-CDB8EA324246}|ReaderWriterImpl\\ReaderWriterImpl.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\readerwriterimpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4E297-575A-4FF8-95E0-CDB8EA324246}|ReaderWriterImpl\\ReaderWriterImpl.csproj|solutionrelative:readerwriterimpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\src\\greaterelementops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\greaterelementops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\unittests\\greaterelementopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\unittests\\greaterelementopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\src\\flowerplanops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\flowerplanops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\src\\equilibriumindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\equilibriumindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\src\\countingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\countingops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\unittests\\countingopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\unittests\\countingopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\src\\consecutiveops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\consecutiveops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\unittests\\consecutiveopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\unittests\\consecutiveopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\src\\candiesops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\candiesops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\interviewops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\interviewops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 430,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hardware_telemetry_system",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\APIs\\hardware_telemetry_system\\hardware_telemetry_system.csproj",
+              "RelativeDocumentMoniker": "APIs\\hardware_telemetry_system\\hardware_telemetry_system.csproj",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\APIs\\hardware_telemetry_system\\hardware_telemetry_system.csproj",
+              "RelativeToolTip": "APIs\\hardware_telemetry_system\\hardware_telemetry_system.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-25T22:47:48.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CpiApi",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\APIs\\CPIApi\\CPIApi\\CpiApi.csproj",
+              "RelativeDocumentMoniker": "APIs\\CPIApi\\CPIApi\\CpiApi.csproj",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\APIs\\CPIApi\\CPIApi\\CpiApi.csproj",
+              "RelativeToolTip": "APIs\\CPIApi\\CPIApi\\CpiApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-25T22:47:40.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinarySearchInActions",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\BinarySearchOps\\BinarySearchInActions.csproj",
+              "RelativeDocumentMoniker": "BinarySearchOps\\BinarySearchInActions.csproj",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\BinarySearchOps\\BinarySearchInActions.csproj",
+              "RelativeToolTip": "BinarySearchOps\\BinarySearchInActions.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-25T22:47:03.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DuplicateOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\DuplicateOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\DuplicateOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\DuplicateOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\DuplicateOpsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T22:45:20.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoveOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\RemoveOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\RemoveOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\RemoveOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\RemoveOpsTests.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T22:41:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DuplicateOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\DuplicateOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\DuplicateOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\DuplicateOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\DuplicateOps.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAIcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T22:41:04.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RemoveOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\RemoveOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\RemoveOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\RemoveOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\RemoveOps.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T22:40:25.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReaderWriterInActions.csproj",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\ReaderWriterImpl\\ReaderWriterInActions.csproj",
+              "RelativeDocumentMoniker": "ReaderWriterImpl\\ReaderWriterInActions.csproj",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\ReaderWriterImpl\\ReaderWriterInActions.csproj",
+              "RelativeToolTip": "ReaderWriterImpl\\ReaderWriterInActions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-25T22:36:02.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReaderWriterImpl.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\ReaderWriterImpl\\src\\ReaderWriterImpl.cs",
+              "RelativeDocumentMoniker": "ReaderWriterImpl\\src\\ReaderWriterImpl.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\ReaderWriterImpl\\src\\ReaderWriterImpl.cs",
+              "RelativeToolTip": "ReaderWriterImpl\\src\\ReaderWriterImpl.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T22:36:31.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\ReaderWriterImpl\\Program.cs",
+              "RelativeDocumentMoniker": "ReaderWriterImpl\\Program.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\ReaderWriterImpl\\Program.cs",
+              "RelativeToolTip": "ReaderWriterImpl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T22:35:42.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GreaterElementOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\GreaterElementOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\GreaterElementOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\GreaterElementOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\GreaterElementOpsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T21:23:33.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GreaterElementOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\GreaterElementOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\GreaterElementOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\GreaterElementOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\GreaterElementOps.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T21:00:54.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FlowerPlanOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\FlowerPlanOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\FlowerPlanOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\FlowerPlanOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\FlowerPlanOps.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T20:59:15.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EquilibriumIndex.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\EquilibriumIndex.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\EquilibriumIndex.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\EquilibriumIndex.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\EquilibriumIndex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T20:47:15.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CountingOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\CountingOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\CountingOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\CountingOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\CountingOpsTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T20:38:09.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CountingOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\CountingOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\CountingOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\CountingOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\CountingOps.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwCcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T20:29:38.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsecutiveOpsTests.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\ConsecutiveOpsTests.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\ConsecutiveOpsTests.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\ConsecutiveOpsTests.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\ConsecutiveOpsTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAxwBcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T19:05:53.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConsecutiveOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\ConsecutiveOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\ConsecutiveOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\ConsecutiveOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\ConsecutiveOps.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T18:51:04.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CandiesOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\CandiesOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\CandiesOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\CandiesOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\CandiesOps.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T18:50:22.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InterviewOps.cs",
+              "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\InterviewOps.cs",
+              "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\InterviewOps.cs",
+              "ToolTip": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\InterviewOps.cs",
+              "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\InterviewOps.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T18:22:22.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

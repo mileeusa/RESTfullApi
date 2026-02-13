@@ -1,0 +1,6 @@
+services:
+  cpiapi:
+    image: ${DOCKER_REGISTRY-}cpiapi
+    build:
+      context: .
+      dockerfile: CPIApi\Dockerfile

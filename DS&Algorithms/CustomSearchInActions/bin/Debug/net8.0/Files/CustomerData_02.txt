@@ -1,0 +1,9 @@
+﻿
+customer,John,Smith,123 Main Street
+customer,Johnathan,Smith,123 Main Street Apt 4
+customer,Johnny,Appleseed,100 Main Street
+customer,Alice,Johnson,42 Johnson Road
+weight,FirstName,12
+weight,LastName,8
+weight,Address,6
+search,John Main

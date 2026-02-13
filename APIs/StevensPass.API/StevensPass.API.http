@@ -1,0 +1,6 @@
+@StevensPass.API_HostAddress = http://localhost:5178
+
+GET {{StevensPass.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

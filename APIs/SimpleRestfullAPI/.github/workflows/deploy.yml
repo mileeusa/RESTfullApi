@@ -1,0 +1,46 @@
+name: Build, Test, and Deploy to Kubernetes
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-test-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x'
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build --no-restore --configuration Release
+
+    - name: Test
+      run: dotnet test --no-build --configuration Release --logger "trx;LogFileName=test-results.trx"
+
+    - name: Upload Test Results
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: test-results
+        path: '**/TestResults/*.trx'
+
+    - name: Build and publish Docker image
+      run: |
+        docker build -t your-dockerhub-username/your-app-image:latest .
+        echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin
+        docker push your-dockerhub-username/your-app-image:latest
+
+    - name: Deploy to Kubernetes
+      env:
+        KUBECONFIG: ${{ secrets.KUBECONFIG }}
+      run: |
+        kubectl apply -f k8s/deployment.yaml
+        kubectl apply -f k8s/service.yaml

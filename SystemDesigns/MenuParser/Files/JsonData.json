@@ -1,0 +1,133 @@
+﻿{
+  "Name": "Global Eats Group",
+  "Restaurants": [
+    {
+      "Name": "Downtown Diner",
+      "Location": "Seattle, WA",
+      "Menus": [
+        {
+          "Name": "Breakfast",
+          "Categories": [
+            {
+              "Name": "Pancakes & Waffles",
+              "MenuItems": [
+                {
+                  "Name": "Buttermilk Pancakes",
+                  "Description": "Fluffy pancakes served with maple syrup.",
+                  "BasePrice": 7.99,
+                  "MenuOptions": [
+                    {
+                      "Name": "Add Blueberries",
+                      "AdditionalPrice": 1.5
+                    },
+                    {
+                      "Name": "Extra Syrup",
+                      "AdditionalPrice": 0.75
+                    }
+                  ]
+                },
+                {
+                  "Name": "Belgian Waffle",
+                  "Description": "Crispy waffle served with whipped cream.",
+                  "BasePrice": 8.49,
+                  "MenuOptions": [
+                    {
+                      "Name": "Add Strawberries",
+                      "AdditionalPrice": 2.0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Drinks",
+              "Items": [
+                {
+                  "Name": "Coffee",
+                  "Description": "Freshly brewed hot coffee.",
+                  "BasePrice": 2.5,
+                  "MenuOptions": [
+                    {
+                      "Name": "Refill",
+                      "AdditionalPrice": 1.0
+                    }
+                  ]
+                },
+                {
+                  "Name": "Orange Juice",
+                  "Description": "Fresh squeezed orange juice.",
+                  "BasePrice": 3.25,
+                  "Options": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "Dinner",
+          "Categories": [
+            {
+              "Name": "Appetizers",
+              "MenuItems": [
+                {
+                  "Name": "Mozzarella Sticks",
+                  "Description": "Crispy fried mozzarella with marinara sauce.",
+                  "BasePrice": 6.99,
+                  "MenuOptions": [
+                    {
+                      "Name": "Season",
+                      "AdditionalPrice":  1.59
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Entrees",
+              "Items": [
+                {
+                  "Name": "Grilled Salmon",
+                  "Description": "Served with garlic mashed potatoes and vegetables.",
+                  "BasePrice": 18.99,
+                  "MenuOptions": [
+                    {
+                      "Name": "Add Side Salad",
+                      "AdditionalPrice": 3.5
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Uptown Cafe",
+      "Location": "Portland, OR",
+      "Menus": [
+        {
+          "Name": "Lunch",
+          "Categories": [
+            {
+              "Name": "Sandwiches",
+              "Items": [
+                {
+                  "Name": "Turkey Club",
+                  "Description": "Triple-decker sandwich with turkey, bacon, and lettuce.",
+                  "BasePrice": 10.99,
+                  "Options": [
+                    {
+                      "Name": "Gluten-Free Bread",
+                      "AdditionalPrice": 1.0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

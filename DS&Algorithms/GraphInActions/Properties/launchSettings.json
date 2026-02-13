@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GraphInActions": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

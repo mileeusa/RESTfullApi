@@ -1,0 +1,31 @@
+﻿<list version="1.0">
+    <meta>
+        <type>resource-list</type>
+    </meta>
+    <resources start="0" count="4">
+        <resource classname="Quote">
+            <field name="name">Vincent</field>
+            <field name="username">Hill</field>
+            <field name="age">31</field>
+            <field name="hair">black</field>
+        </resource>
+        <resource classname="Quote">
+            <field name="name">John</field>
+            <field name="username">Tedelon</field>
+            <field name="age">27</field>
+            <field name="hair">brown</field>
+        </resource>
+        <resource classname="Quote">
+            <field name="name">Michael</field>
+            <field name="username">Lopez</field>
+            <field name="age">20</field>
+            <field name="hair">red</field>
+        </resource>
+        <resource classname="Quote">
+            <field name="name">Frank</field>
+            <field name="username">Lopez</field>
+            <field name="age">25</field>
+            <field name="hair">black</field>
+        </resource>
+    </resources>
+</list>
