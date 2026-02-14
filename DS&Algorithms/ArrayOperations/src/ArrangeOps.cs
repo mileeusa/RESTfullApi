@@ -19,34 +19,33 @@ namespace ArrayInActions.src
         //
         // LeetCode 1497. Check if Array Pairs are Divisible by k
         //
-        public static bool CanArrangePairs(int[] arr, int k)
+        public static bool CanArrangePairs(int[] nums, int k)
         {
-            var freq = new Dictionary<int, int>();
+            var map = new Dictionary<int, int>();
 
-            foreach (var i in arr)
+            foreach (var num in nums)
             {
-                int rem = (i % k + k) % k;
-                freq[rem] = freq.GetValueOrDefault(rem, 0) + 1; ;
+                int rem = (num % k + k) % k;
+                map[rem] = map.GetValueOrDefault(rem, 0) + 1; ;
             }
 
-            foreach (var rem in freq.Keys)
+            foreach (var rem in map.Keys)
             {
                 // case 1: remainder 0
                 if (rem == 0)
                 {
-                    if (freq[rem] % 2 == 1)
+                    if (map[rem] % 2 == 1)
                         return false;
                 }
-
                 // Case 2: remainder equals k/2 when k is even
                 else if (k % 2 == 0 && rem == k / 2)
                 {
-                    if (freq[rem] % 2 != 0)
+                    if (map[rem] % 2 != 0)
                         return false;
                 }
                 else
                 {
-                    if (freq[rem] != freq.GetValueOrDefault(k - rem, 0))
+                    if (map[rem] != map.GetValueOrDefault(k - rem, 0))
                         return false;
                 }
             }
