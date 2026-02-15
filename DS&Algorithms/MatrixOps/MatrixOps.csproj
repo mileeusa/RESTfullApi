@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ArrayOperations\ArrayInActions.csproj" />
+    <ProjectReference Include="..\ListOperations\ListInActions.csproj" />
   </ItemGroup>
 
 </Project>
