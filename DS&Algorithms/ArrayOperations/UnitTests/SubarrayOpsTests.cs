@@ -11,6 +11,17 @@ namespace ArrayInActions.UnitTests
     [TestFixture]
     public class SubarrayOpsTests
     {
+        [TestCase(new int[] {2, 4, 7, 9})]
+        public void GetAllSubarrays_Test(int[] arr)
+        {
+            var result = SubarrayOps.GetAllSubarrays(arr);
+
+            foreach (var list in result)
+            {
+                Console.WriteLine(string.Join(",", list));
+            }
+        }
+
         [TestCase(new int[] { -2, 1, -3, 4, -1, 2, 1, -5, 4 }, 6, 3, 6)]
         public void ReturnMaxSubArray_Test(int[] nums, int expectedMax, int startIdx, int endIdx)
         {

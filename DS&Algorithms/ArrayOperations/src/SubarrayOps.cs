@@ -10,6 +10,45 @@ namespace ArrayInActions.src
     public class SubarrayOps
     {
         //
+        // Generate all the subarrays
+        //
+        // Example:
+        //   input: [2, 4, 7]
+        //   output:
+        //          2
+        //          2, 4
+        //          2, 4, 7
+        //          4
+        //          4, 7
+        //          7
+        //
+        // Time complexity: O(N^3)
+        // Space complexity: O(1)
+        //
+        public static IList<IList<int>> GetAllSubarrays(int[] arr)
+        {
+            var ans = new List<IList<int>>();
+
+            int n = arr.Length;
+
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = i; j < n; j++)
+                {
+                    var curr = new List<int>();
+                    for (int k = i; k <= j; k++)
+                    {
+                        curr.Add(arr[k]);
+                    }
+
+                    ans.Add(curr);
+                }
+            }
+
+            return ans;
+        }
+
+        //
         // Given an integer array nums, find the contiguous subarray (containing at least one number)
         // which has the largest sum and return its sum.
         //
@@ -30,7 +69,7 @@ namespace ArrayInActions.src
             for (int i = 1; i < nums.Length; i++)
             {
                 maxEndingHere = Math.Max(nums[i], maxEndingHere + nums[i]);
-                max = Math.Max(max, maxEndingHere);                
+                max = Math.Max(max, maxEndingHere);
             }
             return max;
         }
