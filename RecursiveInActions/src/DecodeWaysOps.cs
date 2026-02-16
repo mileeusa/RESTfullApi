@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RecursiveInActions.src
 {
-    public class DecodingOps
+    public class DecodeWaysOps
     {
         //
         // a secret message encoded as a string pf numbers. The message is decoded via
@@ -20,8 +20,10 @@ namespace RecursiveInActions.src
         // Given a string s containing only digits, return the number of ways to
         // decode it. If entire string cannot be decoded in a valid way,
         // return 0.
-        // 
-        public static int NumDecodings_Recursive(string s)
+        //
+        // LeetCode 91. Decode Ways
+        //
+        public static int NumDecodings(string s)
         {
             var memo = new Dictionary<int, int>();
 
@@ -30,19 +32,25 @@ namespace RecursiveInActions.src
 
         private static int RecursiveWithMemo(string s, int index, Dictionary<int, int> memo)
         {
-            if (memo.ContainsKey(index))
-                return memo[index];
+            if (memo.TryGetValue(index, out var val))
+                return val;
 
-            if (index == s.Length) return 1;
+            if (index == s.Length) // It means successfully decoded entire string!!!!
+                return 1;
 
-            if (s[index] == '0') return 0;
-
-            if (index == s.Length - 1) return 1;
+            if (s[index] == '0') 
+                return 0;
 
             int ans = RecursiveWithMemo(s, index + 1, memo);
 
-            if (int.Parse(s.Substring(index, 2)) <= 26)
-                ans += RecursiveWithMemo(s, index + 2, memo);
+            if (index < s.Length - 1)
+            {
+                int twoDigit = (s[index] - '0') * 10 + (s[index + 1] - '0');
+                if (twoDigit <= 26)
+                {
+                    ans += RecursiveWithMemo(s, index + 2, memo);
+                }
+            }
 
             memo[index] = ans;
 

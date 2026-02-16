@@ -1,8 +1,12 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Intrinsics.X86;
 using System.Text;
 using System.Threading.Tasks;
+using static Microsoft.ApplicationInsights.MetricDimensionNames.TelemetryContext;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace RecursiveInActions.src
 {
@@ -53,6 +57,55 @@ namespace RecursiveInActions.src
             }
 
             memo[n] = ways;
+
+            return ways;
+        }
+
+        //
+        // You are given a non-negative integer k. There exists a staircase with an infinite number of stairs, with the
+        // lowest stair numbered 0.
+        //
+        // Alice has an integer jump, with an initial value of 0. She starts on stair 1 and wants to reach stair k
+        // using any number of operations.If she is on stair i, in one operation she can:
+        //   Go down to stair i - 1.This operation cannot be used consecutively or on stair 0.
+        //   Go up to stair i + 2jump.And then, jump becomes jump + 1.
+        //
+        // Return the total number of ways Alice can reach stair k.
+        //
+        // Note that it is possible that Alice reaches the stair k, and performs some operations to reach the stair k again.
+        //
+        // LeetCode 3154. Find Number of Ways to Reach the K-th Stair
+        //
+        // Difficulty: Hard
+        //
+        public static int WaysToReachStair(int k)
+        {
+            var memo = new Dictionary<(long, int, bool), long>();
+            return (int)dfs(1, 0, true, k, memo);
+        }
+
+        private static long dfs(long i, int jump, bool canDown, int k, Dictionary<(long, int, bool), long> memo)
+        {
+            if (jump >= 63) return 0;
+
+            // tight pruning
+            if (i > k + jump + 1) return 0;
+
+            var key = (i, jump, canDown);
+
+            if (memo.TryGetValue(key, out var val)) 
+                return val;
+
+            long ways = (i == k) ? 1 : 0;
+
+            // jump
+            ways += dfs(i + (1L << jump), jump + 1, true, k, memo);
+
+            // down
+            if (i > 0 && canDown)
+                ways += dfs(i - 1, jump, false, k, memo);
+
+            memo[key] = ways;
 
             return ways;
         }

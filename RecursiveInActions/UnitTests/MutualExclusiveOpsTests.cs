@@ -10,7 +10,6 @@ namespace RecursiveInActions.UnitTests
 {
     [TestFixture]
     public class Robbery
-        OpsTests
     {
         [TestCase(new int[] { 1, 2, 3, 1}, 4)]
         [TestCase(new int[] { 2, 1, 1, 2}, 4)]

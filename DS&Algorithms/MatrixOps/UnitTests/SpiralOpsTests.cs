@@ -44,6 +44,7 @@ namespace MatrixOps.UnitTests
         [Test]
         public void SpiralMatrixIV_Test()
         {
+            long max = long.MaxValue;
             var nums = new int[] { 3, 0, 2, 6, 8, 1, 7, 9, 4, 2, 5, 5, 0 };
             ListNode head = BuildList(nums);
 

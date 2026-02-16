@@ -34,39 +34,39 @@ namespace MatrixOps.src
             int row_size = arr.Length;
             int col_size = arr[0].Length;
 
-            int up = 0;
+            int top = 0;
             int left = 0;
             int right = col_size - 1;
-            int down = row_size - 1;
+            int bottom = row_size - 1;
 
             while (result.Count < row_size * col_size)
             {
                 // traversal left to right
                 for (int c = left; c <= right; c++)
-                    result.Add(arr[up][c]);
+                    result.Add(arr[top][c]);
 
-                // traversal up to downwards
-                for (int r = up + 1; r <= down; r++)
+                // traversal top to bottom
+                for (int r = top + 1; r <= bottom; r++)
                     result.Add(arr[r][right]);
 
-                if (up != down)
+                if (top != bottom)
                 {
                     // traversal right to left
                     for (int c = right - 1; c >= left; c--)
-                        result.Add(arr[down][c]);
+                        result.Add(arr[bottom][c]);
                 }
 
                 if (left != right)
                 {
-                    // traversal upwards to up
-                    for (int r = down - 1; r >= up + 1; r--)
+                    // traversal bottom to top
+                    for (int r = bottom - 1; r >= top + 1; r--)
                         result.Add(arr[r][left]);
                 }
 
-                up++;
+                top++;
                 left++;
                 right--;
-                down--;
+                bottom--;
             }
 
             return result;
@@ -75,6 +75,18 @@ namespace MatrixOps.src
         // 
         // Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
         // 
+        // Example:
+        //
+        //   Input: n = 3
+        //
+        //     1 -> 2 -> 3
+        //               |
+        //     8 -> 9    4
+        //     |         |
+        //     7 <- 6 <- 5
+        //
+        //   Output: [[1, 2, 3],[8, 9, 4],[7, 6, 5]]
+        //
         // LeetCode 59. Spiral Matrix II
         //
         public int[][] GenerateMatrix(int n)
@@ -85,8 +97,8 @@ namespace MatrixOps.src
                 result[i] = new int[n];
 
             // row
-            int up = 0;
-            int down = n - 1;
+            int top = 0;
+            int bottom = n - 1;
 
             // column
             int left = 0;
@@ -99,33 +111,33 @@ namespace MatrixOps.src
                 // traversal left to right
                 for (int c = left; c <= right; c++)
                 {
-                    result[up][c] = cnt++;
+                    result[top][c] = cnt++;
                 }
 
                 // traversal downwards
-                for (int r = up + 1; r <= down; r++)
+                for (int r = top + 1; r <= bottom; r++)
                 {
                     result[r][right] = cnt++;
                 }
 
-                if (up != down)
+                if (top != bottom)
                 {
                     // traversal right to left
                     for (int c = right - 1; c >= left; c--)
-                        result[down][c] = cnt++;
+                        result[bottom][c] = cnt++;
                 }
 
                 if (left != right)
                 {
                     // traversal upwards
-                    for (int r = down - 1; r > up; r--)
+                    for (int r = bottom - 1; r > top; r--)
                         result[r][left] = cnt++;
                 }
 
-                up++;     //  1  2  3  4
-                left++;   //  5  6  7  8
-                down--;   //  9 10 11 12
-                right--;  // 13 14 15 16
+                top++;     //  1  2  3  4      1  2  3  4
+                left++;    //  5  6  7  8  => 12 13 14  5
+                bottom--;  //  9 10 11 12  => 11 16 15  6 
+                right--;   // 13 14 15 16     10  9  8  7
             }
 
             return result;
@@ -172,7 +184,7 @@ namespace MatrixOps.src
             var result = new List<int[]>();
             int n = rows * cols;
 
-            var dir = new int[][]
+            var directions = new int[][]
             {
                 [ 0,  1 ], // east
                 [ 1,  0 ], // south
@@ -180,7 +192,10 @@ namespace MatrixOps.src
                 [-1,  0 ]  // north
             };
 
-            for (int step = 1, direction = 0; result.Count < n;)
+            int dir = 0;
+            int step = 1;
+
+            while (result.Count < n)
             {
                 for (int i = 0; i < 2; i++)
                 {
@@ -191,11 +206,11 @@ namespace MatrixOps.src
                             result.Add([rStart, cStart]);
                         }
 
-                        rStart += dir[direction][0];
-                        cStart += dir[direction][1];
+                        rStart += directions[dir][0];
+                        cStart += directions[dir][1];
                     }
 
-                    direction = (direction + 1) % 4;
+                    dir = (dir + 1) % 4;
                 }
 
                 step++;
@@ -250,19 +265,19 @@ namespace MatrixOps.src
                 matrix[row][col] = current.val;
                 current = current.next;
 
-                int nextRow = row + directions[dir][0];
-                int nextCol = col + directions[dir][1];
+                int nRow = row + directions[dir][0];
+                int nCol = col + directions[dir][1];
 
-                if (nextRow < 0 || nextRow >= rows ||
-                    nextCol < 0 || nextCol >= cols ||
-                    matrix[nextRow][nextCol] != -1)
+                if (nRow < 0 || nRow >= rows ||
+                    nCol < 0 || nCol >= cols ||
+                    matrix[nRow][nCol] != -1)
                 {
                     dir = (dir + 1) % 4;
-                    nextRow = row + directions[dir][0];
-                    nextCol = col + directions[dir][1];
+                    nRow = row + directions[dir][0];
+                    nCol = col + directions[dir][1];
                 }
-                row = nextRow;
-                col = nextCol;
+
+                (row, col) = (nRow, nCol);
             }
 
             return matrix;

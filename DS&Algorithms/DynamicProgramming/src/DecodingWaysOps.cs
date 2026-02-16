@@ -1,6 +1,6 @@
 ﻿namespace DynamicProgrammingInActions.src
 {
-    public class DecodingOps
+    public class DecodingWaysOps
     {
         //
         // You have intercepted a secret message encoded as a string of numbers. The message is
