@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReaderWriterInActions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37dd4b281c4724e75780c63dae8a9d124095bead")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReaderWriterInActions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReaderWriterInActions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
