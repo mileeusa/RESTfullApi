@@ -1,0 +1,100 @@
+﻿request1,192.168.0.1,Request processed successfully,OK
+request2,10.0.0.2,Authentication failed,Check credentials
+request3,172.16.5.10,Timeout occurred,Retry operation
+request4,192.168.1.15,Payload too large,Reduce size
+request5,10.0.0.5,Request processed successfully,OK
+request6,172.16.0.22,Invalid token,Refresh token
+request7,192.168.0.7,Database connection slow,Investigate DB
+request8,10.1.1.9,Request processed successfully,OK
+request9,172.16.10.14,Missing required fields,Validate input
+request10,192.168.2.33,Request processed successfully,OK
+request11,10.0.0.8,Rate limit exceeded,Wait before retry
+request12,172.16.8.21,Request processed successfully,OK
+request13,192.168.0.12,Cache miss,Normal behavior
+request14,10.2.0.3,Request processed successfully,OK
+request15,172.16.5.18,Invalid signature,Security check failed
+request16,192.168.1.22,Malformed JSON,Fix JSON format
+request17,10.0.0.6,Request processed successfully,OK
+request18,172.16.9.30,Unknown error occurred,Check logs
+request19,192.168.0.76,Service unavailable,Retry later
+request20,10.1.2.44,Request processed successfully,OK
+request21,172.16.1.5,Access denied,Insufficient permissions
+request22,192.168.3.19,Request processed successfully,OK
+request23,10.0.3.7,Upstream dependency failed,Investigate upstream
+request24,172.16.4.8,Request processed successfully,OK
+request25,192.168.5.90,File not found,Verify path
+request26,10.0.1.11,Request processed successfully,OK
+request27,172.16.3.45,Invalid parameter type,Check schema
+request28,192.168.0.14,Request processed successfully,OK
+request29,10.2.3.55,Session expired,Renew session
+request30,172.16.7.66,Request processed successfully,OK
+request31,192.168.4.22,DNS lookup failed,Check DNS settings
+request32,10.0.9.9,Request processed successfully,OK
+request33,172.16.2.88,Unexpected EOF,Inspect data stream
+request34,192.168.0.29,Request processed successfully,OK
+request35,10.1.0.14,Server overloaded,Scale system
+request36,172.16.6.75,Request processed successfully,OK
+request37,192.168.3.33,Invalid API key,Verify key
+request38,10.0.2.18,Request processed successfully,OK
+request39,172.16.1.14,Data conflict,Resolve conflict
+request40,192.168.0.44,Request processed successfully,OK
+request41,10.1.5.20,Disk nearly full,Monitor usage
+request42,172.16.9.55,Request processed successfully,OK
+request43,192.168.6.30,Gateway timeout,Retry request
+request44,10.0.4.16,Request processed successfully,OK
+request45,172.16.5.42,Resource locked,Try later
+request46,192.168.2.18,Request processed successfully,OK
+request47,10.1.3.77,Duplicate request detected,Ignore duplicate
+request48,172.16.0.60,Request processed successfully,OK
+request49,192.168.7.99,Protocol mismatch,Update client
+request50,10.0.0.10,Request processed successfully,OK
+request51,172.16.12.11,Invalid header,Fix client request
+request52,192.168.0.52,Request processed successfully,OK
+request53,10.1.8.14,Service restart required,Schedule maintenance
+request54,172.16.3.12,Request processed successfully,OK
+request55,192.168.1.91,Checksum mismatch,Corrupted payload
+request56,10.0.6.42,Request processed successfully,OK
+request57,172.16.14.50,Read-only mode enabled,Write op denied
+request58,192.168.8.14,Request processed successfully,OK
+request59,10.2.1.33,Index out of range,Fix code
+request60,172.16.5.90,Request processed successfully,OK
+request61,192.168.0.121,Unknown content type,Update headers
+request62,10.0.2.77,Request processed successfully,OK
+request63,172.16.6.23,SSL handshake failed,Check certificates
+request64,192.168.9.10,Request processed successfully,OK
+request65,10.1.4.88,Out of memory,Optimize memory
+request66,172.16.2.39,Request processed successfully,OK
+request67,192.168.0.142,Connection reset by peer,Check network
+request68,10.0.0.22,Request processed successfully,OK
+request69,172.16.3.72,Path traversal attempt blocked,Security alert
+request70,192.168.1.111,Request processed successfully,OK
+request71,10.2.4.19,Format validation failed,Review format
+request72,172.16.10.44,Request processed successfully,OK
+request73,192.168.2.73,Missing auth header,Add header
+request74,10.1.1.88,Request processed successfully,OK
+request75,172.16.7.12,Unexpected null,Check input sources
+request76,192.168.0.15,Request processed successfully,OK
+request77,10.0.4.21,Config outdated,Sync configs
+request78,172.16.5.33,Request processed successfully,OK
+request79,192.168.4.19,Method not allowed,Update method
+request80,10.1.7.10,Request processed successfully,OK
+request81,172.16.1.77,Unsupported version,Upgrade client
+request82,192.168.0.93,Request processed successfully,OK
+request83,10.3.0.44,Data conversion error,Fix transformation
+request84,172.16.8.90,Request processed successfully,OK
+request85,192.168.3.17,File upload failed,Check file system
+request86,10.0.2.12,Request processed successfully,OK
+request87,172.16.11.55,Queue full,Increase capacity
+request88,192.168.0.61,Request processed successfully,OK
+request89,10.1.6.25,Thread limit reached,Tune thread pool
+request90,172.16.9.33,Request processed successfully,OK
+request91,192.168.5.55,Serialization error,Fix serializer
+request92,10.0.3.60,Request processed successfully,OK
+request93,172.16.4.70,Invalid format specifier,Correct format
+request94,192.168.0.82,Request processed successfully,OK
+request95,10.1.9.11,CPU usage high,Monitor system
+request96,172.16.2.18,Request processed successfully,OK
+request97,192.168.7.22,Feature disabled,Enable feature flag
+request98,10.0.5.32,Request processed successfully,OK
+request99,172.16.6.88,Invalid query filter,Fix query params
+request100,192.168.0.200,Request processed successfully,OK
