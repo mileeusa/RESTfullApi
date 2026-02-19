@@ -66,13 +66,15 @@ namespace StringInActions.src
         }
 
         //
-        // LeetCode 438. Find All Anagrams in a String
+        // Given two strings s and p, return an array of all the start indices of p's anagrams in s. You may return
+        // the answer in any order.
+        //
+        // LeetCode 438. Find All Anagrams in a string
         //
         public IList<int> FindAnagrams(string s, string p)
         {
             var result = new List<int>();
 
-            // TBD
             if (s.Length < p.Length) return result;
 
             int[] freq = new int[26];

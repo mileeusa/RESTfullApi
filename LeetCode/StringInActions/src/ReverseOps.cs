@@ -164,12 +164,29 @@ namespace StringInActions
         }
 
         // 
+        // You are given a string s consisting of lowercase English words, each separated by a single space.
+        //
+        // Determine how many vowels appear in the first word.Then, reverse each following word that has
+        // the same vowel count.Leave all remaining words unchanged.
+        //
+        // Return the resulting string.
+        //
+        // Vowels are 'a', 'e', 'i', 'o', and 'u'.
+        //
         // LeetCode 3775. Reverse Words With Same Vowel Count
         //
         public static string ReverseWordsWithSameVowelCount(string s)
         {
-            // TBD
+            if (string.IsNullOrEmpty(s)) return s;
+
+            var tokens = s.Split(' ');
+
             return string.Empty;
+        }
+
+        private bool IsVowel(char c)
+        {
+            return "aioue".Contains(c);
         }
 
         //

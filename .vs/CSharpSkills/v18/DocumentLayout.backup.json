@@ -35,14 +35,6 @@
       "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\encryptionops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\encryptionops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\encryptionops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\unittests\\encryptionopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\unittests\\encryptionopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\unittests\\encryptionopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\unittests\\encryptionopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,48 +59,12 @@
       "RelativeMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|solutionrelative:ds\u0026algorithms\\arrayoperations\\src\\sumofarrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\matrixops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\matrixops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\unittests\\matrixopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\unittests\\matrixopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\recursiveops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\recursiveops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\stringops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\stringops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\arrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\arrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\islandsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\islandsops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\graphinactions\\src\\graphtraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F039724-1A81-4FE5-B7DC-EA7A0CE95078}|DS\u0026Algorithms\\GraphInActions\\GraphInActions.csproj|solutionrelative:ds\u0026algorithms\\graphinactions\\src\\graphtraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89F8AADC-EFD2-47E3-8EFC-26EDCF0E9B36}|HackerRank\\HackerRank\\HackerRank.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\hackerrank\\hackerrank\\src\\graphreversalops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F8AADC-EFD2-47E3-8EFC-26EDCF0E9B36}|HackerRank\\HackerRank\\HackerRank.csproj|solutionrelative:hackerrank\\hackerrank\\src\\graphreversalops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89F8AADC-EFD2-47E3-8EFC-26EDCF0E9B36}|HackerRank\\HackerRank\\HackerRank.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\hackerrank\\hackerrank\\unittests\\graphreversalopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F8AADC-EFD2-47E3-8EFC-26EDCF0E9B36}|HackerRank\\HackerRank\\HackerRank.csproj|solutionrelative:hackerrank\\hackerrank\\unittests\\graphreversalopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89F8AADC-EFD2-47E3-8EFC-26EDCF0E9B36}|HackerRank\\HackerRank\\HackerRank.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\hackerrank\\hackerrank\\src\\graphops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F8AADC-EFD2-47E3-8EFC-26EDCF0E9B36}|HackerRank\\HackerRank\\HackerRank.csproj|solutionrelative:hackerrank\\hackerrank\\src\\graphops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89F8AADC-EFD2-47E3-8EFC-26EDCF0E9B36}|HackerRank\\HackerRank\\HackerRank.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\hackerrank\\hackerrank\\src\\subarrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F8AADC-EFD2-47E3-8EFC-26EDCF0E9B36}|HackerRank\\HackerRank\\HackerRank.csproj|solutionrelative:hackerrank\\hackerrank\\src\\subarrayops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F60897F-9D54-3C4F-D96F-8A0B96CDCA7D}|DS\u0026Algorithms\\ArrayOperations\\ArrayInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\arrayoperations\\src\\traprainwaterops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -147,16 +103,60 @@
       "RelativeMoniker": "D:0:0:{5C0065DF-6D6D-4F45-A63A-BD03B2186582}|DS\u0026Algorithms\\DynamicProgramming\\DynamicProgrammingInActions.csproj|solutionrelative:ds\u0026algorithms\\dynamicprogramming\\src\\decodingwaysiiops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\interview2026inactions\\src\\dpops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDD92B2E-75E6-48A8-99E3-B6EDCC7B437B}|Interview2026InActions\\Interview2026InActions.csproj|solutionrelative:interview2026inactions\\src\\dpops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\ds\u0026algorithms\\stringinactions\\src\\interviewops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14B16028-D59B-217B-4D32-796FF84EBE53}|DS\u0026Algorithms\\StringInActions\\StringInActions.csproj|solutionrelative:ds\u0026algorithms\\stringinactions\\src\\interviewops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89F8AADC-EFD2-47E3-8EFC-26EDCF0E9B36}|HackerRank\\HackerRank\\HackerRank.csproj|c:\\users\\milee\\source\\repos\\c#\\csharpskills\\hackerrank\\hackerrank\\unittests\\subarrayopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F8AADC-EFD2-47E3-8EFC-26EDCF0E9B36}|HackerRank\\HackerRank\\HackerRank.csproj|solutionrelative:hackerrank\\hackerrank\\unittests\\subarrayopstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\MatrixOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interview2026InActions\\src\\MatrixOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\HackerRank\\HackerRank\\UnitTests\\GraphReversalOpsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HackerRank\\HackerRank\\UnitTests\\GraphReversalOpsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\EncryptionOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interview2026InActions\\src\\EncryptionOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\UnitTests\\EncryptionOpsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interview2026InActions\\UnitTests\\EncryptionOpsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\ArrayOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interview2026InActions\\src\\ArrayOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\StringOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interview2026InActions\\src\\StringOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\RecursiveOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interview2026InActions\\src\\RecursiveOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\UnitTests\\MatrixOpsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interview2026InActions\\UnitTests\\MatrixOpsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\HackerRank\\HackerRank\\src\\GraphReversalOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HackerRank\\HackerRank\\src\\GraphReversalOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\HackerRank\\HackerRank\\src\\SubarrayOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HackerRank\\HackerRank\\src\\SubarrayOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\HackerRank\\HackerRank\\src\\GraphOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HackerRank\\HackerRank\\src\\GraphOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\DpOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interview2026InActions\\src\\DpOps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\HackerRank\\HackerRank\\UnitTests\\SubarrayOpsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HackerRank\\HackerRank\\UnitTests\\SubarrayOpsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -186,8 +186,7 @@
               "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\IntersectArraysOpsTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T18:33:11.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T18:33:11.272Z"
             },
             {
               "$type": "Document",
@@ -212,8 +211,7 @@
               "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\MergeSortedArrayOps.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T18:20:36.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T18:20:36.703Z"
             },
             {
               "$type": "Document",
@@ -225,8 +223,7 @@
               "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\UnitTests\\ReverseOpsTests.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAA9wDoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T15:36:17.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T15:36:17.471Z"
             },
             {
               "$type": "Document",
@@ -238,8 +235,7 @@
               "RelativeToolTip": "DS\u0026Algorithms\\StringInActions\\src\\ReverseOps.cs",
               "ViewState": "AgIAAAYBAAAAAAAAAAAowBsBAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T15:19:39.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T15:19:39.846Z"
             },
             {
               "$type": "Document",
@@ -251,8 +247,7 @@
               "RelativeToolTip": "DS\u0026Algorithms\\ListOperations\\UnitTests\\DeleteUnsortedListOpsTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T05:16:31.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T05:16:31.097Z"
             },
             {
               "$type": "Document",
@@ -264,8 +259,7 @@
               "RelativeToolTip": "DS\u0026Algorithms\\ListOperations\\src\\DeleteUnsortedListOps.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T04:59:02.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T04:59:02.398Z"
             },
             {
               "$type": "Document",
@@ -277,12 +271,11 @@
               "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\EncryptionOps.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAwwGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T03:01:36.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T03:01:36.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "RotateOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\MatrixOps\\src\\RotateOps.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\MatrixOps\\src\\RotateOps.cs",
@@ -290,12 +283,11 @@
               "RelativeToolTip": "DS\u0026Algorithms\\MatrixOps\\src\\RotateOps.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:39:49.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T23:39:49.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "MatrixOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\MatrixOps.cs",
               "RelativeDocumentMoniker": "Interview2026InActions\\src\\MatrixOps.cs",
@@ -303,12 +295,11 @@
               "RelativeToolTip": "Interview2026InActions\\src\\MatrixOps.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwCgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T19:02:26.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T19:02:26.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "GraphReversalOpsTests.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\HackerRank\\HackerRank\\UnitTests\\GraphReversalOpsTests.cs",
               "RelativeDocumentMoniker": "HackerRank\\HackerRank\\UnitTests\\GraphReversalOpsTests.cs",
@@ -316,12 +307,11 @@
               "RelativeToolTip": "HackerRank\\HackerRank\\UnitTests\\GraphReversalOpsTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T04:08:07.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T04:08:07.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "SumOfArrayOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\SumOfArrayOps.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\SumOfArrayOps.cs",
@@ -329,12 +319,11 @@
               "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\SumOfArrayOps.cs",
               "ViewState": "AgIAALgAAAAAAAAAAAAkwBEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T19:41:58.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T19:41:58.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "SumOfSubarrayOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\SumOfSubarrayOps.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\SumOfSubarrayOps.cs",
@@ -342,12 +331,11 @@
               "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\src\\SumOfSubarrayOps.cs",
               "ViewState": "AgIAAJMAAAAAAAAAAAAAwLAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T19:47:28.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T19:47:28.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 28,
               "Title": "EncryptionOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\EncryptionOps.cs",
               "RelativeDocumentMoniker": "Interview2026InActions\\src\\EncryptionOps.cs",
@@ -355,12 +343,11 @@
               "RelativeToolTip": "Interview2026InActions\\src\\EncryptionOps.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAQwFQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T04:48:44.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T04:48:44.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 29,
               "Title": "EncryptionOpsTests.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\UnitTests\\EncryptionOpsTests.cs",
               "RelativeDocumentMoniker": "Interview2026InActions\\UnitTests\\EncryptionOpsTests.cs",
@@ -368,12 +355,11 @@
               "RelativeToolTip": "Interview2026InActions\\UnitTests\\EncryptionOpsTests.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T03:58:25.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T03:58:25.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "EncryptionOpsTests.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\EncryptionOpsTests.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\EncryptionOpsTests.cs",
@@ -381,12 +367,11 @@
               "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\EncryptionOpsTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T03:26:54.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T03:26:54.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "RotateOpsTests.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\MatrixOps\\UnitTests\\RotateOpsTests.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\MatrixOps\\UnitTests\\RotateOpsTests.cs",
@@ -394,12 +379,11 @@
               "RelativeToolTip": "DS\u0026Algorithms\\MatrixOps\\UnitTests\\RotateOpsTests.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAArwBUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:43:09.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T23:43:09.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "SumOfSubarrayOpsTests.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\SumOfSubarrayOpsTests.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\SumOfSubarrayOpsTests.cs",
@@ -407,12 +391,11 @@
               "RelativeToolTip": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\SumOfSubarrayOpsTests.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAiwDEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T22:05:15.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T22:05:15.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 15,
               "Title": "GraphTraversal.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\GraphTraversal.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\GraphTraversal.cs",
@@ -424,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 14,
               "Title": "IslandsOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\GraphInActions\\src\\IslandsOps.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\GraphInActions\\src\\IslandsOps.cs",
@@ -436,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "ArrayOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\ArrayOps.cs",
               "RelativeDocumentMoniker": "Interview2026InActions\\src\\ArrayOps.cs",
@@ -448,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "StringOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\StringOps.cs",
               "RelativeDocumentMoniker": "Interview2026InActions\\src\\StringOps.cs",
@@ -460,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 32,
               "Title": "RecursiveOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\RecursiveOps.cs",
               "RelativeDocumentMoniker": "Interview2026InActions\\src\\RecursiveOps.cs",
@@ -472,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 33,
               "Title": "MatrixOpsTests.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\UnitTests\\MatrixOpsTests.cs",
               "RelativeDocumentMoniker": "Interview2026InActions\\UnitTests\\MatrixOpsTests.cs",
@@ -484,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
               "Title": "GraphReversalOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\HackerRank\\HackerRank\\src\\GraphReversalOps.cs",
               "RelativeDocumentMoniker": "HackerRank\\HackerRank\\src\\GraphReversalOps.cs",
@@ -496,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 16,
               "Title": "TrapRainWaterOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\TrapRainWaterOps.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\TrapRainWaterOps.cs",
@@ -508,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 18,
               "Title": "SubArrayeOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\SlidingWindowOps\\src\\SubArrayeOps.cs",
               "RelativeDocumentMoniker": "SlidingWindowOps\\src\\SubArrayeOps.cs",
@@ -520,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 19,
               "Title": "SubArrayOpsTests.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\SlidingWindowOps\\UnitTests\\SubArrayOpsTests.cs",
               "RelativeDocumentMoniker": "SlidingWindowOps\\UnitTests\\SubArrayOpsTests.cs",
@@ -532,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 17,
               "Title": "SubarrayOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\src\\SubarrayOps.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\src\\SubarrayOps.cs",
@@ -544,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 21,
               "Title": "SumOfArrayTests.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\SumOfArrayTests.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\SumOfArrayTests.cs",
@@ -556,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 20,
               "Title": "SlidingWindowOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\SlidingWindowOps\\src\\SlidingWindowOps.cs",
               "RelativeDocumentMoniker": "SlidingWindowOps\\src\\SlidingWindowOps.cs",
@@ -564,12 +547,11 @@
               "RelativeToolTip": "SlidingWindowOps\\src\\SlidingWindowOps.cs",
               "ViewState": "AgIAALEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T04:48:44.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T04:48:44.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 23,
               "Title": "DecodingWaysIIOpsTests.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\DecodingWaysIIOpsTests.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\DecodingWaysIIOpsTests.cs",
@@ -577,12 +559,11 @@
               "RelativeToolTip": "DS\u0026Algorithms\\DynamicProgramming\\UnitTests\\DecodingWaysIIOpsTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T17:07:59.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T17:07:59.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 24,
               "Title": "DecodingWaysIIOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\DynamicProgramming\\src\\DecodingWaysIIOps.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\DynamicProgramming\\src\\DecodingWaysIIOps.cs",
@@ -594,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "SubarrayOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\HackerRank\\HackerRank\\src\\SubarrayOps.cs",
               "RelativeDocumentMoniker": "HackerRank\\HackerRank\\src\\SubarrayOps.cs",
@@ -602,12 +583,11 @@
               "RelativeToolTip": "HackerRank\\HackerRank\\src\\SubarrayOps.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAQwCsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T03:00:58.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T03:00:58.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "GraphOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\HackerRank\\HackerRank\\src\\GraphOps.cs",
               "RelativeDocumentMoniker": "HackerRank\\HackerRank\\src\\GraphOps.cs",
@@ -619,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 22,
               "Title": "SubarrayOpsTests.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\ArrayOperations\\UnitTests\\SubarrayOpsTests.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\ArrayOperations\\UnitTests\\SubarrayOpsTests.cs",
@@ -631,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "DpOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\Interview2026InActions\\src\\DpOps.cs",
               "RelativeDocumentMoniker": "Interview2026InActions\\src\\DpOps.cs",
@@ -643,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 25,
               "Title": "InterviewOps.cs",
               "DocumentMoniker": "C:\\Users\\milee\\source\\repos\\C#\\CSharpSkills\\DS\u0026Algorithms\\StringInActions\\src\\InterviewOps.cs",
               "RelativeDocumentMoniker": "DS\u0026Algorithms\\StringInActions\\src\\InterviewOps.cs",
