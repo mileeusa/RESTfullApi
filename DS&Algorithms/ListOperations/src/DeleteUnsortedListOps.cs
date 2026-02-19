@@ -21,10 +21,28 @@ namespace ListInActions.src
         //   Add all elements of nums into a HashSet.
         //   Scan the list to check if the current element should be deleted by checking the Set.
         //
-        public static ListNode ModifiedList(int[] nums, ListNode head)
+        public static ListNode? ModifiedList(int[] nums, ListNode? head)
         {
-            // TBD
-            return null;
+            var set = new HashSet<int>(nums);
+
+            var dummyNode = new ListNode(0);
+            dummyNode.next = head;
+
+            var current = dummyNode;
+
+            while (current.next != null)
+            {
+                if (!set.Contains(current.next.val))
+                {
+                    current = current.next;
+                }
+                else
+                {
+                    current.next = current.next.next;
+                }
+            }
+
+            return dummyNode.next;
         }
 
         // 

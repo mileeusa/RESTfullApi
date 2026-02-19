@@ -48,6 +48,27 @@ namespace ArrayInActions.src
             return ans;
         }
 
+        public static IList<IList<int>> GetAllSubarraysII(int[] arr)
+        {
+            var ans = new List<IList<int>>();
+
+            int n = arr.Length;
+
+            for (int i = 0; i < n; i++)
+            {
+                var curr = new List<int>();
+
+                for (int j = i; j < n; j++)
+                {
+                    curr.Add(arr[j]);
+                }
+
+                ans.Add(curr);
+            }
+
+            return ans;
+        }
+
         //
         // Given an integer array nums, find the contiguous subarray (containing at least one number)
         // which has the largest sum and return its sum.
@@ -59,17 +80,20 @@ namespace ArrayInActions.src
         //
         // Difficulty: Medium
         //
-        // Kadane's Algorithm
+        // **** Kadane's Algorithm ****
         // 
+        // Time complexity: O(N)
+        // Space complexity: O(1)
+        //
         public static int MaxSubArray(int[] nums)
         {
             int max = nums[0];
-            int maxEndingHere = nums[0];
+            int currMax = nums[0];
 
             for (int i = 1; i < nums.Length; i++)
             {
-                maxEndingHere = Math.Max(nums[i], maxEndingHere + nums[i]);
-                max = Math.Max(max, maxEndingHere);
+                currMax = Math.Max(nums[i], currMax + nums[i]);
+                max = Math.Max(max, currMax);
             }
             return max;
         }
@@ -143,6 +167,12 @@ namespace ArrayInActions.src
         //
         // Time complexity:  O(N)
         // Space complexity: O(1)
+        //
+        // The Twist: A very small negative number multiplied by another negative number
+        //            becomes a very large positive number.
+        //
+        // The Trick: Keep track of both the maximum and minimum product up to the
+        //            current position.
         //
         public static int MaxProduct(int[] nums)
         {

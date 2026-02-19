@@ -11,10 +11,21 @@ namespace ArrayInActions.UnitTests
     [TestFixture]
     public class SubarrayOpsTests
     {
-        [TestCase(new int[] {2, 4, 7, 9})]
+        [TestCase(new int[] { 2, 4, 7, 9 })]
         public void GetAllSubarrays_Test(int[] arr)
         {
             var result = SubarrayOps.GetAllSubarrays(arr);
+
+            foreach (var list in result)
+            {
+                Console.WriteLine(string.Join(",", list));
+            }
+        }
+
+        [TestCase(new int[] { 2, 4, 7, 9 })]
+        public void GetAllSubarraysII_Test(int[] arr)
+        {
+            var result = SubarrayOps.GetAllSubarraysII(arr);
 
             foreach (var list in result)
             {
@@ -51,10 +62,10 @@ namespace ArrayInActions.UnitTests
 
             Assert.That(sum, Is.EqualTo(expectedMax));
         }
-        
+
         [TestCase(new int[] { 2, 3, -2, 4 }, 6)]
-        [TestCase(new int[] { -2, 3, -4 },  24)]
-        [TestCase(new int[] { -2, 3, -1 },   6)]
+        [TestCase(new int[] { -2, 3, -4 }, 24)]
+        [TestCase(new int[] { -2, 3, -1 }, 6)]
         public void MaxProduct_Test(int[] nums, int expected)
         {
             int maxProduct = SubarrayOps.MaxProduct(nums);

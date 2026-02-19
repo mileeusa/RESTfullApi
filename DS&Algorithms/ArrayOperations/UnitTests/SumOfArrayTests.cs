@@ -26,27 +26,6 @@ namespace ArrayInActions.UnitTests
         }
 
         [Test]
-        public static void MaxMin_Test()
-        {
-            int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8 };
-
-            (var max, var min) = SumOfArrayOps.MaxMin(nums);
-
-            Console.WriteLine();
-            Console.WriteLine($"The min and max for {string.Join(", ", nums)} is [{min}, {max}]");
-        }
-
-        [Test]
-        public static void Sum_Test()
-        {
-            int[] nums = { 1, 2, 3, 4, 5 };
-            int sum = SumOfArrayOps.Sum(nums);
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine("Sum of array: {0} is {1}", string.Join(",", nums), sum);
-        }
-
-        [Test]
         public void TwoSum_SortedArray_Test()
         {
             int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8 };

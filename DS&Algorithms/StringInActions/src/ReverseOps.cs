@@ -48,7 +48,7 @@ namespace StringInActions
             Array.Reverse(arr);
             return new string(arr);
         }
-                
+
         //
         // Given an input string s, reverse the order of the words.
         //
@@ -117,7 +117,7 @@ namespace StringInActions
             while (left < right)
             {
                 int n = 0;
-                while ((left + n ) < s.Length && s[left + n] != ' ')
+                while ((left + n) < s.Length && s[left + n] != ' ')
                 {
                     n++;
                 }
@@ -137,14 +137,30 @@ namespace StringInActions
             return new string(s);
         }
 
-        private static void Reverse(char[] s, int left, int right)
+        public static void ReverseEachWord(char[] s)
         {
-            // TBD
+            int left = 0;
+            int right = s.Length - 1;
+
+            while (left < right)
+            {
+                int n = 0;
+                while (left + n <= right && s[left + n] != ' ')
+                    n++;
+
+                Reverse(s, left, left + n - 1);
+                left += n + 1;
+            }
         }
 
-        private static void ReverseEachWord(char[] s)
+        private static void Reverse(char[] s, int left, int right)
         {
-            // TBD
+            while (left < right)
+            {
+                (s[left], s[right]) = (s[right], s[left]);
+                left++;
+                right--;
+            }
         }
 
         // 
@@ -237,6 +253,38 @@ namespace StringInActions
                     (arr[left], arr[right]) = (arr[right], arr[left]);
                     left++;
                     right--;
+                }
+            }
+
+            return new string(arr);
+        }
+
+        //
+        // Given a string s and an integer k, reverse the first k characters for every 2k characters
+        // counting from the start of the string.
+        //
+        // If there are fewer than k characters left, reverse all of them.If there are less than 2k
+        // but greater than or equal to k characters, then reverse the first k characters and leave
+        // the other as original.
+        //
+        // LeetCode 541. Reverse String II
+        //
+        // Difficulty: Easy
+        //
+        public string ReverseFirstK(string s, int k)
+        {
+            if (string.IsNullOrEmpty(s) || k <= 0)
+                return s;
+
+            var arr = s.ToArray<char>();
+            for (int i = 0; i < s.Length; i += 2 * k) {
+                int l = i;
+                int r = Math.Min(i + k - 1, s.Length - 1);
+
+                while (l < r) {
+                    (arr[l], arr[r]) = (arr[r], arr[l]);
+                    l++;
+                    r--;
                 }
             }
 

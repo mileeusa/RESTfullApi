@@ -54,8 +54,6 @@ namespace GraphInActions
             while (queue.Count > 0)
             {
                 int currentVertex = queue.Dequeue();
-                //Console.Write(currentVertex + " ");
-
                 result.Add(currentVertex);
 
                 foreach (int neighbor in _adjacencyList[currentVertex])
@@ -67,8 +65,6 @@ namespace GraphInActions
                     }
                 }
             }
-            //Console.WriteLine();
-            //Console.WriteLine();
 
             return result;
         }

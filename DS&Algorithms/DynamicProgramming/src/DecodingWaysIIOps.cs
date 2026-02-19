@@ -49,6 +49,54 @@ namespace DynamicProgrammingInActions.src
         //
         public static int NumDecodingsII(string s)
         {
+            if (string.IsNullOrEmpty(s) || s.Length == 0) return 0;
+
+            long dp0 = 1; // empty string
+            long dp1 = Ways1(s[0]);
+
+            for (int i = 1; i < s.Length; i++)
+            {
+                long current = (Ways1(s[i]) * dp1 + Ways2(s[i - 1], s[i]) * dp0) % 1000000007;
+                dp0 = dp1;
+                dp1 = current;
+            }
+
+            return (int)dp1;
+        }
+
+        private static int Ways1(char c)
+        {
+            if (c == '*') return 9;
+
+            return (c == '0') ? 0 : 1;
+        }
+
+        private static int Ways2(char c1, char c2)
+        {
+            // case1: both are wildcards
+            if (c1 == '*' && c2 == '*') return 15;
+
+            // case2: the first is wildcard
+            if (c1 == '*')
+            {
+                if (c2 >= '0' && c2 <= '6') return 2;
+                return 1;
+            }
+
+            // case3: the second is wildcard
+            if (c2 == '*')
+            {
+                if (c1 == '1') return 9;
+                if (c1 == '2') return 6;
+                return 0;
+            }
+
+            // case4: both are digits
+            int twoDigits = (c1 - '0') * 10 + (c2 - '0');
+
+            if (twoDigits >= 10 && twoDigits <= 26) return 1;
+            
+            return 0;
         }
     }
 }

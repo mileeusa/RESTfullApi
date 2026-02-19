@@ -15,7 +15,7 @@ namespace ArrayInActions.src
         //
         public static int[] TwoSum_UnsortedArray(int[] nums, int target)
         {
-            Dictionary<int, int> map = []; // complement vs index
+            var map = new Dictionary<int, int>(); // complement vs index
 
             for (int i = 0; i < nums.Length; i++)
             {
@@ -29,21 +29,6 @@ namespace ArrayInActions.src
             }
 
             return [];
-        }
-
-        public static int Sum(int[] nums)
-        {
-            return nums.Sum();
-        }
-
-        public static double Average(int[] nums)
-        {
-            return nums.Average();
-        }
-
-        public static (int max, int min) MaxMin(int[] nums)
-        {
-            return (nums.Max(), nums.Min());
         }
 
         //

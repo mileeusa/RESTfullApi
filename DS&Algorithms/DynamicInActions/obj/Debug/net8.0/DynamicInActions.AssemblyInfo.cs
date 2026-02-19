@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicInActions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c78ae3eec3085e834185ba4a3a80f69b271e215")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55f80ba70c376edccfd9ffce6fa3e043fa4d9757")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicInActions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicInActions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

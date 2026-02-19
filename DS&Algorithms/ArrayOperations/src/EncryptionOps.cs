@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
+using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
@@ -50,13 +51,51 @@ namespace ArrayInActions.src
         // Output
         //   1 400000
         //
-        public static int[] GetEncryptionStatus(
-        int instructionCount,
-        int validityPeriod,
-        int[] keys)
+        public static int[] GetEncryptionStatus(int instructionCount, int validityPeriod, int[] keys)
         {
-            return []; // TBD
-        }
+            var map = new Dictionary<int, int>();
 
+            foreach (var key in keys)
+            {
+                map[key] = map.GetValueOrDefault(key, 0) + 1;
+            }
+
+            int maxDivisibility = 0;
+
+            foreach (var key in keys)
+            {
+                int currentDivisibility = 0;
+
+                for (int d = 1; d * d <= key; d++)
+                {
+                    if (key % d == 0)
+                    {
+                        if (map.ContainsKey(d))
+                        {
+                            currentDivisibility += 1;
+                        }
+                    }
+
+                    int rem = key / d;
+                    for (int k = rem; k <= key; k++)
+                    {
+                        if (key % k == 0)
+                        {
+                            if (map.ContainsKey(k))
+                            {
+                                currentDivisibility += map[k];
+                            }
+                        }
+                    }
+                }
+
+                maxDivisibility = Math.Max(maxDivisibility, currentDivisibility);
+            }
+
+            int strength = maxDivisibility * 100000;
+            int canCrack = (instructionCount * validityPeriod) >= strength ? 1 : 0;
+
+            return [ canCrack, strength ];
+        }
     }
 }

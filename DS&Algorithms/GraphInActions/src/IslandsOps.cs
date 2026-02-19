@@ -53,36 +53,30 @@ namespace GraphInActions.src
                     if (grid[r][c] == '1')
                     {
                         numIslands++;
-                        DFS(grid, r, c);
-                        //BFS(grid, r, c);
+                        DFS(grid, r, c, m, n);
+                        //BFS(grid, r, c, m, n);
                     }
                 }
             }
             return numIslands;
         }
 
-        private static void DFS(char[][] grid, int r, int c)
+        private static void DFS(char[][] grid, int r, int c, int rows, int cols)
         {
-            int m = grid.Length;
-            int n = grid[0].Length;
-
-            if (r < 0 || c < 0 || r >= m || c >= n || grid[r][c] == '0')
+            if (r < 0 || c < 0 || r >= rows || c >= cols || grid[r][c] == '0')
             {
                 return;
             }
 
             grid[r][c] = '0'; // mark as visited
-            DFS(grid, r - 1, c); // up
-            DFS(grid, r + 1, c); // down
-            DFS(grid, r, c - 1); // left
-            DFS(grid, r, c + 1); // right
+            DFS(grid, r - 1, c, rows, cols); // up
+            DFS(grid, r + 1, c, rows, cols); // down
+            DFS(grid, r, c - 1, rows, cols); // left
+            DFS(grid, r, c + 1, rows, cols); // right
         }
 
-        private static void BFS(char[][] grid, int r, int c)
+        private static void BFS(char[][] grid, int r, int c, int rows, int cols)
         {
-            int rows = grid.Length;
-            int cols = grid[0].Length;
-
             var queue = new Queue<(int, int)>();
             queue.Enqueue((r, c));
 

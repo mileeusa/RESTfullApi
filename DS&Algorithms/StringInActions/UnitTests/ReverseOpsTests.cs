@@ -52,6 +52,18 @@ namespace StringInActions.UnitTests
             Assert.That(result, Is.EqualTo(t));
         }
 
+        [Test]
+        public void ReverseEachWord_Test()
+        {
+            char[] s = ['t', 'h', 'e', ' ', 's', 'k', 'y', ' ', 'i', 's', ' ', 'b', 'l', 'u', 'e'];
+            char[] t = ['e', 'h', 't', ' ', 'y', 'k', 's', ' ', 's', 'i', ' ', 'e', 'u', 'l', 'b'];
+
+            ReverseOps.ReverseEachWord(s);
+
+            // assert
+            Assert.That(s, Is.EqualTo(t));
+        }
+
         [TestCase("IceCreAm", "AceCreIm")]
         public void ReverseVowels_Test(string s, string expected)
         {
