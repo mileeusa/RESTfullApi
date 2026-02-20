@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using StringInActions.src;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -76,6 +77,14 @@ namespace StringInActions.UnitTests
         public void ReverseVowels_TwoPointers_Test(string s, string expected)
         {
             var result = ReverseOps.ReverseVowels_TwoPointers(s);
+
+            Assert.That(result, Is.EqualTo(expected));
+        }
+
+        [TestCase("cat and mice", "cat dna mice")]
+        public void ReverseWordsWithSameVowelCount_Test(string s, string expected)
+        {
+            var result = ReverseOps.ReverseWordsWithSameVowelCount(s);
 
             Assert.That(result, Is.EqualTo(expected));
         }

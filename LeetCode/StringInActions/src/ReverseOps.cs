@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StringInActions
+namespace StringInActions.src
 {
     public class ReverseOps
     {
@@ -179,14 +179,37 @@ namespace StringInActions
         {
             if (string.IsNullOrEmpty(s)) return s;
 
-            var tokens = s.Split(' ');
+            var tokens = s.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+            int vowels = 0;
+            var ans = new List<string>();
 
-            return string.Empty;
-        }
+            foreach(char c in tokens[0])
+                if(IsVowel(c)) 
+                    vowels++;
 
-        private bool IsVowel(char c)
-        {
-            return "aioue".Contains(c);
+            ans.Add(tokens[0]);
+            
+            for (int i = 1; i < tokens.Length; i++)
+            {
+                int count = 0;
+                foreach(var c in tokens[i])
+                {
+                    if (IsVowel(c))
+                        count++;
+                }
+
+                if (count == vowels)
+                {
+                    char[] items = tokens[i].ToCharArray();
+                    Array.Reverse(items);
+                    //Reverse(items, 0, items.Length - 1);
+                    ans.Add(new string(items));
+                }
+                else
+                    ans.Add(tokens[i]);
+            }
+
+            return string.Join(" ", ans);
         }
 
         //

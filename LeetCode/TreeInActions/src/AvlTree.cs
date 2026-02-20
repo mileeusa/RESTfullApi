@@ -14,6 +14,7 @@ namespace TreeInActions.src
         
     }
 
+    // TBD
     public class AvlTree : IAvlTree
     {
         public void Insert(int val)
@@ -28,27 +29,32 @@ namespace TreeInActions.src
 
         private AvlNode Insert(AvlNode node, int val)
         {
+            return node;
         }
 
         private AvlNode Delete(AvlNode node, int val)
         {
-
+            return node;
         }
 
         private AvlNode RotateRight(AvlNode y)
         {
+            return y;
         }
 
         private AvlNode RotateLeft(AvlNode x)
         {
+            return x;
         }
 
         private int Height(AvlNode node)
         {
+            return node.Height;
         }
 
         private int Balance(AvlNode node)
         {
+            return 1;
         }
 
         private AvlNode MinValueNode(AvlNode node)
